@@ -1,0 +1,9 @@
+class WaterDispenser
+{
+  String temp_type;
+  double temp;
+  boolean filter_state; //ready to use or not
+  
+  double dispense_water(String temp_type); //will return temperature of water dispensed
+  void clean_filter(boolean filter_state);
+}

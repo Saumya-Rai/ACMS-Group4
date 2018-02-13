@@ -2,7 +2,8 @@ class SoapDispenser
 {
   boolean state; //empty or not
   double amount; //amount of soap
+  double capacity; //soap capacity
   
   double dispense_soap(); //returns soap amount left
-  void refill(boolean state);
+  void refill(boolean state, double capacity);
 }

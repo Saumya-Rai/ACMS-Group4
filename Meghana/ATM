@@ -1,0 +1,10 @@
+class ATM{
+int Current_Amount;
+int Current_state;//working or not working or running out of cash
+int pin;//atm pin
+int amount;//for withdrawing or transfer
+
+
+boolean withdraw_Cash(pin,amount){//returns true if successful}
+String Get_MiniStatement(pin){}
+}

@@ -1,0 +1,7 @@
+class fridge{
+int temp;
+int capacity;
+
+boolean turn_fridge_on_off{}
+int change_temp{return temp;}
+}

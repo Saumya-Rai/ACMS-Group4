@@ -1,0 +1,8 @@
+class SoapDispenser
+{
+  boolean state; //empty or not
+  double amount; //amount of soap
+  
+  double dispense_soap(); //returns soap amount left
+  void refill(boolean state);
+}

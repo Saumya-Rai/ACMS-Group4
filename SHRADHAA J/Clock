@@ -1,0 +1,10 @@
+class Clock
+{
+  int hours;
+  int minutes;
+  int seconds;
+  boolean state; //running or not
+  
+  void increment_time(); //increments seconds, minutes and hours
+  void replace_battery(boolean state);
+}

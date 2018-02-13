@@ -1,7 +1,7 @@
 class fridge{
 int temp;
 int capacity;
-
-boolean turn_fridge_on_off{}
-int change_temp{return temp;}
+int current_state;//on or off
+boolean turn_fridge_on_off(current_state){}
+int change_temp(temp){//update and return temp;}
 }

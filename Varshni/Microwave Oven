@@ -1,0 +1,10 @@
+class Microwave_Oven
+{
+  Boolean state;
+  int mode;         //microwave, convection, grill
+  Double temperature;
+  String brand;
+  
+  Boolean cook( int mode1, double temp );
+  Void power_supply(Boolean state1);
+}

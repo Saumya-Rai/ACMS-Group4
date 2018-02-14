@@ -9,15 +9,6 @@ public class Question3 {
         Node head2 = new Node( 'A' );
         head2.next = new Node( 'B' );
         head2.next.next = head1.next.next;
-
-
         Node.findIntersection( head1, head2 );
-        /*Node head = new Node('1');
-        head.next = new Node('2');
-
-        System.out.println(head.next.val);*/
-
-
-
     }
     }

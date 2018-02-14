@@ -4,14 +4,8 @@ public class Question1 {
         Node.insert( head1,'3' );
         Node head2 = new Node('-');
         Node.insert( head2, '3' );
-
-
         Node result = findSum(head1, head2);
-
         Node.traverse( result );
-
-
-
     }
     public static Node findSum(Node head1, Node head2) {
         Node temp = head1;
@@ -51,7 +45,6 @@ public class Question1 {
         for(int i = 1 ; i < arr.length ; i++) {
             Node.insert( result, arr[i] );
         }
-
         return result;
     }
 }

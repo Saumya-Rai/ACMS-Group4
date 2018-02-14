@@ -10,3 +10,5 @@ char b;
 int c;
 char d;
 }
+
+ANS (from all) : 10bytes because int is 4bytes and char is 1byte => 2(4)+2(1)= 10

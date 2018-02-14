@@ -1,0 +1,10 @@
+class Cupboard
+{
+  int no_of_shelves;
+  double shelf_vol[no_of_shelves];
+  
+  double add_item(double item_vol, int shelf_no); //adds item only if space is available, returns space left in shelf
+  double remove_item(double item_vol, int shelf_no); //returns space left in shelf
+  double open(); //returns current space occupied
+  void close();
+}

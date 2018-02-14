@@ -1,0 +1,10 @@
+Class Lawn_Mower
+{
+    String brand_no;
+    Boolean State;
+    Int lev;                          //4 levels
+    
+    void cutting_state( int level );
+    void fuel ( int bar );
+
+}

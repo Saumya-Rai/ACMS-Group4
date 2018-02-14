@@ -1,0 +1,9 @@
+class washingMachine{
+String state;   
+double capacity;
+String type;
+
+String changeState(String state);  //changes state to "on" or "off"
+Void wash(double currentCapacity);  //wash only if currentCapacity<= capacity
+Void dry(double currentCapacity);  //dry only if currentCapacity<= capacity
+}

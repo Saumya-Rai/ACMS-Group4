@@ -1,0 +1,12 @@
+Class water_dispenser 
+{
+    String  Identification_no;
+    Double Temperature;
+    
+    int dispense_water (String ch, boolean power_supply) // choice is hot, normal, cold
+           return Temperature;
+    
+    boolean safe_to_drink(int Filter_condition)
+    // filter condition says is the dispenser can be used now or it's being cleaned that doesn't dispense water fit for drinking
+           return ;
+}

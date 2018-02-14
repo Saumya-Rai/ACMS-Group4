@@ -1,0 +1,11 @@
+class Smoke_Detector
+{
+  String model_no;
+  Double alarm_intensity;
+  Double ionization_quantity;
+  Double photoelectricity;
+  
+  mode = int type();                     //detects through ionization technique or photo electric technique
+  int alarm_sound(int mode, double ionization_intensity, double photoelectricity);
+  
+}

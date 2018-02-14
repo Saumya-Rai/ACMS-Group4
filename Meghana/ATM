@@ -1,12 +1,14 @@
 class ATM{
-int Current_Amount; //current amt or is it cash holding in terms of denominations?
+int Current_Amount; //cash holding in terms of denominations?
 int Current_state;//working or not working or running out of cash
 int pin;//atm pin
 int amount;//for withdrawing or transfer
 
 
-boolean withdraw_Cash(pin,amount){//returns true if successful} //Shouldnt it have card number also?
+boolean withdraw_Cash(pin,amount){//returns true if successful} //Shouldnt it have card number also? I thought we would insert the card,so we don't enter it manually
 String Get_MiniStatement(pin){} //+ card number
 }
 
 How can it be extended to a kiosk?
+
+

@@ -1,4 +1,4 @@
-public class Question1 {
+public class Question1 { //what about decimals ?
     public static void main(String[] args) {
         Node head1 = new Node('9');
         Node.insert( head1,'3' );

@@ -10,3 +10,5 @@ Class water_dispenser
     // filter condition says is the dispenser can be used now or it's being cleaned that doesn't dispense water fit for drinking
            return ;
 }
+
+//applicable for thermos flask

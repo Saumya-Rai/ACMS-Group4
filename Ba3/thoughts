@@ -1,0 +1,12 @@
+Class definition:
+1) Avoid state as a variable
+2) Always a fn has a return type
+3) class member variables are to be private without a valid reason otherwise
+
+Question: What is the size of given below struct. Why?
+struct{
+int a;
+char b;
+int c;
+char d;
+}

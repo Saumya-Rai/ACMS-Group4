@@ -8,3 +8,5 @@ class Microwave_Oven
   Boolean cook( int mode1, double temp );
   Void power_supply(Boolean state1);
 }
+
+//Applicable for electric cooker too

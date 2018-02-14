@@ -2,7 +2,7 @@ import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 public class Node {
 
     public char val;
-    public Boolean visited;
+    public Boolean visited; //A normal linked list doesnt have visited parameter.
     public Node next = null;
     public Node random = null;
 

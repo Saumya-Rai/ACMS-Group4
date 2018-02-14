@@ -1,7 +1,7 @@
 class washingMachine{
-String state;   
+String state;   //shouldnt state be spin, rinse, wash etc...
 double capacity;
-String type;
+String type; //why string. why not enum?
 
 String changeState(String state);  //changes state to "on" or "off"
 Void wash(double currentCapacity);  //wash only if currentCapacity<= capacity

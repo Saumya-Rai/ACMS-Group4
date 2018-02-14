@@ -1,5 +1,6 @@
 class waterBottle{
-double maxAmt;                     //max amount of water possible
+//foodgrade ?
+double maxAmt;                     //max amount of water possible  //capacity?
 double fillAmt;                    //current amount of water
 String company;
 double fillBottle(double Amt);     //increases fillAmt, fillAmt<= maxAmt

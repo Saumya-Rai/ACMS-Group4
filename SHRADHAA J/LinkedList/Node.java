@@ -1,5 +1,5 @@
 package linkedlist;
-//used only for question 2
+//used for question 2
 public class Node {
 	
 	Node next=null, random=null;
@@ -42,7 +42,7 @@ public class Node {
 		}
 		
 	}
-	
+	//cloning
 	Node clone(Node head)
 	{
 		Node temp=head;
@@ -50,8 +50,25 @@ public class Node {
 		while(head!=null)
 		{
 			t.next=head.next;
-			t.random=head.random;
+			
 			t=t.next;
+			head=head.next;
+		}
+		
+		head=temp;
+		t=temp;
+		while(head!=null)
+		{
+			int r=head.random.element;
+			if(t==null)
+				System.out.println("yes");
+			Node f=t.find(t, r);
+			if(f!=null)
+			{
+				t.random=f;
+			}
+			t=t.next;
+			
 			head=head.next;
 		}
 		return temp;

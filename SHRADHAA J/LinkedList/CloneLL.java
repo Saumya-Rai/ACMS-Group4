@@ -1,7 +1,7 @@
 package linkedlist;
 
 import java.util.*;
-//uses Node structure
+
 public class CloneLL {
 
 	public static void main(String[] args) {
@@ -36,8 +36,7 @@ public class CloneLL {
 		}
 		
 		head.print(head);
-		
-		//cloning
+		System.out.println();
 		Node cl=head.clone(head);
 		cl.print(cl);
 

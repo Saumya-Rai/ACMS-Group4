@@ -1,15 +1,14 @@
 import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+import java.util.*;
 public class Node {
 
     public char val;
-    public Boolean visited;
     public Node next = null;
     public Node random = null;
 
     public Node(char val) {
         this.val = val;
-       // this.next=null;
-        this.visited = false;
+
     }
     public static void insert(Node head, char ch) {
         Node temp = head;
@@ -62,24 +61,37 @@ public class Node {
         return (head1);
 
     }
-    public static void findIntersection(Node head1, Node head2){                   //for question 3
+    public static void findIntersection(Node head1, Node head2){
+        ArrayList<Character> visit = new ArrayList<Character>(10);
+
         while (head1 != null)
         {
-            if(head1.visited == false){
-                head1.visited = true;
-            }
+           visit.add(head1.val);
             head1 = head1.next;
         }
+
         while (head2 != null)
         {
-            if(head2.visited == false){
-                head2.visited = true;
+            if(visit.contains( head2.val ) == false){
+                head2 = head2.next;
             }
-            else {
-                System.out.println( head2.val+" is intersection node " );
+            else{
                 break;
+            }
+
+        }
+
+        boolean intersect = true;
+        Node intersection = head2;
+        while (head2 != null){
+            if(visit.contains( head2.val ) == false ){
+                intersect = false;
             }
             head2 = head2.next;
         }
+        if (intersect == false){
+            System.out.println("no intrsection");
+        }
+        else System.out.println( intersection.val + " is intersection pooint" );
     }
 }

@@ -4,6 +4,6 @@ class SoapDispenser
   double amount; //amount of soap
   double capacity; //soap capacity
   
-  double dispense_soap(); //returns soap amount left
-  void refill(boolean state, double capacity);
+  double dispense_soap(); //returns soap amount left //dispense_soap should return soap not the amout of soap left isnt it?
+  void refill(boolean state, double capacity); //why is state needed here? shouldnt state get flipped internally? also why is there no return value?
 }

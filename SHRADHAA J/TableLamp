@@ -1,0 +1,10 @@
+class TableLamp
+{
+  boolean on_off; //true when on, false when off
+  int intensity_lev;
+  double brightness;
+  
+  double change_intensity(int new_intensity); returns brightness of lamp
+  void turn_on();
+  void turn_off();
+}

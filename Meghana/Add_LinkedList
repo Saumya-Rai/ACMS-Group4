@@ -1,0 +1,102 @@
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.Scanner;
+public class addLL {
+	public static void main(String[] args) throws Exception{
+		LinkedList<Integer> ll=new LinkedList<Integer>();   
+		Scanner in=new Scanner(System.in);
+		int n1=in.nextInt();
+		int n2=in.nextInt();
+		in.close();	
+		int s=0;
+		if(n1<0){
+			s=1;
+		}
+		n1=Math.abs(n1);
+		int d=nod(n1);
+		int dig=d;
+		int[] a=new int[d];
+		for(int i=n1;i>=1;i=i){			
+     		int r=i%10;			
+			i=i/10;
+			d=d-1;
+			a[d]=r;
+		}
+		for(int i=0;i<a.length;i++){
+			ll.add(a[i]);
+		}
+		//System.out.println("add done");
+		int num=0;
+		for (int i = 0; i < ll.size(); i++) {
+			num=(int)(num+(ll.get(i)*(Math.pow(10,dig-1))));
+			dig=dig-1;
+		}
+		if(s==1)
+		num=num-n2;
+		int d2=nod(num);
+		int[] b=new int[d2];
+		for(int i=num;i>=1;i=i){			
+     		int r=i%10;			
+			i=i/10;
+			d2=d2-1;
+			b[d2]=r;
+		}
+		while (!ll.isEmpty()) {
+	        ll.removeFirst();
+	    }
+		for(int i=0;i<b.length;i++){
+			ll.add(b[i]);
+		}
+		if(s==1)
+			System.out.print('-');
+		for (int i = 0; i <ll.size(); i++) {
+			System.out.print(ll.get(i));
+		}
+	}
+	
+	//Less time complexity
+	public static int nod(int n){
+		if (n < 100000){
+	        // 5 or less
+	        if (n < 100){
+	            // 1 or 2
+	            if (n < 10)
+	                return 1;
+	            else
+	                return 2;
+	        }else{
+	            // 3 or 4 or 5
+	            if (n < 1000)
+	                return 3;
+	            else{
+	                // 4 or 5
+	                if (n < 10000)
+	                    return 4;
+	                else
+	                    return 5;
+	            }
+	        }
+	    } else {
+	        // 6 or more
+	        if (n < 10000000) {
+	            // 6 or 7
+	            if (n < 1000000)
+	                return 6;
+	            else
+	                return 7;
+	        } else {
+	            // 8 to 10
+	            if (n < 100000000)
+	                return 8;
+	            else {
+	                // 9 or 10
+	                if (n < 1000000000)
+	                    return 9;
+	                else
+	                    return 10;
+	            }
+	        }
+	    }
+
+	}
+}

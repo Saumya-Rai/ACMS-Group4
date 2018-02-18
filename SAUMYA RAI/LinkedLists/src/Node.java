@@ -3,6 +3,10 @@ import java.util.*;
 public class Node {
 
     public char val;
+<<<<<<< HEAD
+=======
+    public Boolean visited; //A normal linked list doesnt have visited parameter.
+>>>>>>> 3950a33fbd05225462830a414658d7d4dc7bd51b
     public Node next = null;
     public Node random = null;
 

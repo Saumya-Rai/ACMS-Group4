@@ -1,0 +1,10 @@
+class Bicycle{
+private int current_gear;
+private int num_of_gears;
+private int current_speed;
+
+public int change_gear(int current_gear){//update and return current_gear}
+public boolean brake(){current_speed=0;}
+public int Accelerate_Deccelerate(){//update current_speed and return current_speed}
+
+}

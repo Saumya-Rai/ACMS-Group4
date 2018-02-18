@@ -1,6 +1,6 @@
 Class Lawn_Mower
 {
-    String brand_no;
+    String brand_no; //why is datatype string for brand_NUMBER?
     Boolean State;
     Int lev;                          //4 levels
     
@@ -8,3 +8,5 @@ Class Lawn_Mower
     void fuel ( int bar );
 
 }
+
+//This is applicable for chainsaw, grinder etc too

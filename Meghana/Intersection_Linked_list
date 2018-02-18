@@ -1,0 +1,91 @@
+
+class Intersection {
+ 
+    static Node h1, h2;
+ 
+    static class Node {
+ 
+        //char data2;
+    	int data;
+        Node next;
+ 
+        Node(int d) {
+            data = d;
+            next = null;
+        }
+       /* Node(char ch){
+        	data2=ch;
+        	next=null;
+        }*/
+    }
+ 
+    int Poi() {
+        int c1 = getCount(h1);
+        int c2 = getCount(h2);
+        int d;
+ 
+        if (c1 > c2) {
+            d = c1 - c2;
+            return _getIntesectionNode(d, h1, h2);
+        } else {
+            d = c2 - c1;
+            return _getIntesectionNode(d, h2, h1);
+        }
+    }
+ 
+   
+    int _getIntesectionNode(int d, Node n1, Node n2) {
+    	Node c1 = n1;
+        Node c2 = n2;
+        for (int i = 0; i < d; i++) {
+            if (c1 == null) {
+                return -1;
+            }
+            c1 = c1.next;
+        }
+        while (c1 != null && c2 != null) {
+            if (c1.data == c2.data) {
+                return c1.data;
+            }
+            c1 = c1.next;
+            c2 = c2.next;
+        }
+ 
+        return -1;
+    }
+ 
+    int getCount(Node node) {
+        Node current = node;
+        int count = 0;
+ 
+        while (current != null) {
+            count++;
+            current = current.next;
+        }
+ 
+        return count;
+    }
+ 
+    public static void main(String[] args) {
+        Intersection list = new Intersection();
+ 
+        list.h1 = new Node(1);
+        list.h1.next = new Node(2);
+        list.h1.next.next = new Node(3);
+        list.h1.next.next.next = new Node(4);
+        list.h1.next.next.next.next = new Node(5);
+        list.h1.next.next.next.next.next = new Node(6);
+ 
+        list.h2 = new Node(9);
+        list.h2.next = new Node(8);
+        list.h2.next.next = new Node(3);
+        list.h2.next.next.next = new Node(4);
+        list.h2.next.next.next.next = new Node(5);
+        list.h2.next.next.next.next.next = new Node(6);
+ 
+ 
+        System.out.println(list.Poi());
+ 
+    }
+}
+

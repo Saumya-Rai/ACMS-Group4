@@ -3,8 +3,10 @@ class Clock
   int hours;
   int minutes;
   int seconds;
-  boolean state; //running or not
+  boolean state; //running or not //Avoid state. seems very generic...
   
-  void increment_time(); //increments seconds, minutes and hours
-  void replace_battery(boolean state);
+  void increment_time(); //increments seconds, minutes and hours //wouldnt it take arguments of how much to increment by?
+  void replace_battery(boolean state);// why no return values?
 }
+
+extend it to precision timer

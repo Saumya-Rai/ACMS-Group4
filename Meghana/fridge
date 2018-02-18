@@ -5,3 +5,5 @@ int current_state;//on or off
 boolean turn_fridge_on_off(current_state){}
 int change_temp(temp){//update and return temp;}
 }
+
+//refer to https://en.wikipedia.org/wiki/Internet_refrigerator

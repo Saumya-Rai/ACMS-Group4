@@ -5,7 +5,7 @@ public class Node {
     public char val;
 
     public Node next = null;
-    public Node random = null;
+    public Node random = null;             //used ony in question 2 , question 1 and 3 do not use this
 
     public Node(char val) {
         this.val = val;
@@ -62,7 +62,7 @@ public class Node {
         return (head1);
 
     }
-    public static void findIntersection(Node head1, Node head2){
+    public static void findIntersection(Node head1, Node head2){                    //for q3
         ArrayList<Character> visit = new ArrayList<Character>(10);
 
         while (head1 != null)

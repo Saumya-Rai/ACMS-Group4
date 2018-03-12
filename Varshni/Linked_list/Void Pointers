@@ -1,0 +1,5 @@
+- Void pointer has no data type associated with it. 
+- A void pointer can hold address of any type and can be type casted to any type.
+* Void pointers are used to implement generic functions in C.
+- Void pointers can never be dereferenced.
+- Pointer arithmetic cannot be performed with them

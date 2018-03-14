@@ -1,0 +1,76 @@
+import java.util.*;
+public class AddedLink
+{
+    public static void main(String args[])
+    {
+        // Creating object of class linked list
+        Stack<Integer> s1=new Stack<Integer>();
+        LinkedList<Integer> list = new LinkedList<Integer>();
+        LinkedList<Integer> list1 = new LinkedList<Integer>();
+        LinkedList<Integer> list2 = new LinkedList<Integer>();
+        LinkedList<Integer> list3=new LinkedList<Integer>();
+
+        // Adding elements to the linked list
+        list.add(-2);
+        list.add(3);
+        list.add(9);
+        list.add(7);
+        list1.add(5);
+        list1.add(1);
+        list1.add(7);
+        list2.add(7);
+        list2.add(9);
+        list2.add(3);
+
+        /*
+        //alternative input set:
+        list.add(2);
+        list.add(9);
+        list.add(7);
+        list1.add(5);
+        list1.add(1);
+        list1.add(7);
+        list2.add(7);
+        list2.add(9);
+        list2.add(3);
+        */
+
+        System.out.println("Linked list1 : " + list);
+        System.out.println("Linked list2 : " + list1);
+        System.out.println("Linked list3 : " + list2);
+
+        int i, r, sum = 0;
+        String result1="";
+        String result2="";
+        String result3="";
+        for(i=0;i<list.size();i++)
+        {
+        	 Object element = list.get(i);
+        	 result1=result1+element;
+        }
+        for(i=0;i<list1.size();i++)
+        {
+        	Object element = list1.get(i);
+        	result2=result2+element;
+        }
+        for(i=0;i<list2.size();i++)
+        {
+        	Object element = list2.get(i);
+        	result3=result3+element;
+        }
+        sum = Integer.parseInt(result1)+Integer.parseInt(result2)+Integer.parseInt(result3);
+        System.out.println(sum);
+        while(sum!=0)
+        {
+        	r=sum%10;
+        s1.push(r);
+        	sum=sum/10;
+        }
+        list3.add(s1.pop());
+        while(!s1.isEmpty())
+        {
+         list3.add(Math.abs(s1.pop()));
+        }
+        System.out.println("Linked list "+list3);
+    }
+}

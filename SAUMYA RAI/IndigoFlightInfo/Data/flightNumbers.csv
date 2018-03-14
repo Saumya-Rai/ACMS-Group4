@@ -1,0 +1,1404 @@
+Origin,Destination,6E Flight Number,Departure (Local Time),Arrival (Local Time),Via,Days of Operations,Effective From,Effective To
+Ahmedabad (AMD),Bengaluru (BLR),823,09:05,11:20,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Bengaluru (BLR),758,12:40,14:50,,"Except Tue, Sun",19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Bengaluru (BLR),758,13:00,15:10,,Every Tue,20-Feb-18,27-Feb-18
+Ahmedabad (AMD),Bengaluru (BLR),893,17:05,19:15,,Except Tue,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Bengaluru (BLR),893,18:25,20:35,,Every Tue,20-Feb-18,27-Feb-18
+Ahmedabad (AMD),Bengaluru (BLR),735,20:10,22:25,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Bengaluru (BLR),996,23:50,02:05,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Mumbai (BOM),6958,05:20,06:40,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Mumbai (BOM),3834,07:45,09:05,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Mumbai (BOM),984,08:55,11:00,,Except Sun,01-Mar-18,24-Mar-18
+Ahmedabad (AMD),Mumbai (BOM),984,08:55,11:05,,Every Sun,04-Mar-18,18-Mar-18
+Ahmedabad (AMD),Mumbai (BOM),214,09:20,10:40,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Mumbai (BOM),984,09:35,11:05,,Every Sun,25-Feb-18,25-Feb-18
+Ahmedabad (AMD),Mumbai (BOM),984,10:25,11:45,,Except Sun,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Mumbai (BOM),403,14:00,15:20,,Except Sun,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Mumbai (BOM),313,18:40,20:05,,Daily,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Mumbai (BOM),313,19:55,20:55,,Daily,01-Mar-18,24-Mar-18
+Ahmedabad (AMD),Kolkata (CCU),125,06:40,09:10,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Kolkata (CCU),135,16:10,18:40,,Every Sat,24-Feb-18,24-Feb-18
+Ahmedabad (AMD),Kolkata (CCU),135,16:15,18:45,,Except Sat,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Kolkata (CCU),363,22:55,01:30,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Delhi (DEL),6683,04:50,06:20,,Daily,01-Mar-18,24-Mar-18
+Ahmedabad (AMD),Delhi (DEL),6683,05:05,06:45,,Daily,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Delhi (DEL),158,06:10,07:50,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Delhi (DEL),962,07:00,08:35,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Delhi (DEL),3492,08:45,10:25,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Delhi (DEL),731,15:35,17:20,,Daily,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Delhi (DEL),162,17:40,19:20,,Daily,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Delhi (DEL),166,20:25,22:05,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Delhi (DEL),728,22:00,23:35,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Goa (GOI),161,13:05,14:55,,Except Sun,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Goa (GOI),947,22:50,00:45,,Daily,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Goa (GOI),947,23:25,01:20,,Daily,01-Mar-18,24-Mar-18
+Ahmedabad (AMD),Hyderabad (HYD),879,08:10,10:05,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Hyderabad (HYD),383,15:55,17:40,,Daily,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Hyderabad (HYD),371,19:40,21:25,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Jaipur (JAI),237,19:05,20:30,,Daily,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Jaipur (JAI),237,19:45,20:55,,Daily,01-Mar-18,24-Mar-18
+Ahmedabad (AMD),Lucknow (LKO),244,08:35,10:50,,Daily,01-Mar-18,24-Mar-18
+Ahmedabad (AMD),Lucknow (LKO),244,09:40,11:50,,Every Sun,25-Feb-18,25-Feb-18
+Ahmedabad (AMD),Lucknow (LKO),244,10:05,11:50,,"Except Thu, Fri, Sun",24-Feb-18,28-Feb-18
+Ahmedabad (AMD),Lucknow (LKO),627,10:05,11:50,,"Except Sat, Sun",19-Feb-18,23-Feb-18
+Ahmedabad (AMD),Chennai (MAA),238,09:55,12:20,,"Except Mon, Tue, Wed",25-Feb-18,04-Mar-18
+Ahmedabad (AMD),Chennai (MAA),238,09:55,12:20,,Daily,05-Mar-18,24-Mar-18
+Ahmedabad (AMD),Chennai (MAA),238,10:00,12:20,,Except Sun,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Chennai (MAA),856,23:30,01:55,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Pune (PNQ),351,04:40,05:55,,Daily,19-Feb-18,24-Mar-18
+Ahmedabad (AMD),Pune (PNQ),202,16:10,17:25,,Except Sat,19-Feb-18,28-Feb-18
+Ahmedabad (AMD),Pune (PNQ),674,21:55,23:10,,Daily,19-Feb-18,24-Mar-18
+Amritsar (ATQ),Bengaluru (BLR),478,16:20,19:30,,Daily,19-Feb-18,24-Mar-18
+Amritsar (ATQ),Mumbai (BOM),448,13:40,16:20,,Daily,19-Feb-18,24-Mar-18
+Amritsar (ATQ),Delhi (DEL),525,06:55,08:10,,Except Sat,19-Feb-18,28-Feb-18
+Amritsar (ATQ),Delhi (DEL),525,06:55,08:00,,Every Sat,24-Feb-18,24-Mar-18
+Amritsar (ATQ),Delhi (DEL),525,06:55,08:10,,Except Sat,01-Mar-18,23-Mar-18
+Amritsar (ATQ),Delhi (DEL),637,16:50,18:00,,Daily,19-Feb-18,28-Feb-18
+Amritsar (ATQ),Delhi (DEL),637,16:50,17:55,,Daily,01-Mar-18,24-Mar-18
+Amritsar (ATQ),Delhi (DEL),895,23:10,00:20,,Daily,19-Feb-18,24-Mar-18
+Amritsar (ATQ),Jammu (IXJ),367,13:55,14:50,,Daily,19-Feb-18,24-Mar-18
+Amritsar (ATQ),Srinagar (SXR),477,13:25,14:35,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Bengaluru (BLR),157,07:00,08:55,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Bengaluru (BLR),317,10:30,12:40,,Except Tue,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Bengaluru (BLR),317,13:55,16:00,,Every Tue,20-Feb-18,20-Mar-18
+Bhubaneswar (BBI),Bengaluru (BLR),492,14:15,16:30,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Bengaluru (BLR),3869,21:00,23:05,,"Except Tue, Sat",19-Feb-18,23-Mar-18
+Bhubaneswar (BBI),Bengaluru (BLR),3869,21:00,23:10,,Every Sat,24-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Bengaluru (BLR),3869,21:25,23:30,,Every Tue,20-Feb-18,20-Mar-18
+Bhubaneswar (BBI),Mumbai (BOM),375,08:45,11:20,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Mumbai (BOM),257,13:05,15:40,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Kolkata (CCU),557,10:20,11:15,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Kolkata (CCU),411,17:50,18:55,,Except Tue,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Kolkata (CCU),411,18:10,19:15,,Every Tue,20-Feb-18,20-Mar-18
+Bhubaneswar (BBI),Kolkata (CCU),598,19:50,20:55,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Delhi (DEL),489,05:15,07:45,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Delhi (DEL),256,09:45,12:20,,Except Thu,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Delhi (DEL),646,16:20,19:00,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Delhi (DEL),314,18:30,20:55,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Delhi (DEL),5405,21:40,00:20,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Hyderabad (HYD),342,10:00,11:40,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Hyderabad (HYD),631,11:55,13:35,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Hyderabad (HYD),969,15:15,16:55,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Hyderabad (HYD),265,19:25,21:00,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Chennai (MAA),182,12:15,14:15,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Chennai (MAA),756,14:50,16:25,,Daily,19-Feb-18,24-Mar-18
+Bhubaneswar (BBI),Visakhapatnam (VTZ),512,13:25,14:25,,Daily,19-Feb-18,24-Mar-18
+Vadodara (BDQ),Mumbai (BOM),568,08:05,09:05,,Daily,19-Feb-18,24-Mar-18
+Vadodara (BDQ),Mumbai (BOM),446,17:10,18:15,,Daily,19-Feb-18,24-Mar-18
+Vadodara (BDQ),Delhi (DEL),3591,07:15,08:40,,Daily,19-Feb-18,24-Mar-18
+Vadodara (BDQ),Delhi (DEL),6512,16:15,17:50,,Daily,19-Feb-18,24-Mar-18
+Vadodara (BDQ),Delhi (DEL),488,21:00,22:35,,Daily,19-Feb-18,24-Mar-18
+Bangkok (BKK),Kolkata (CCU),78,02:05,03:25,,Daily,19-Feb-18,24-Mar-18
+Bangkok (BKK),Kolkata (CCU),76,15:45,16:45,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Ahmedabad (AMD),6779,02:40,04:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Ahmedabad (AMD),586,06:30,08:35,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Ahmedabad (AMD),287,10:00,12:10,,Except Sun,19-Feb-18,28-Feb-18
+Bengaluru (BLR),Ahmedabad (AMD),369,14:25,16:35,,Except Tue,19-Feb-18,28-Feb-18
+Bengaluru (BLR),Ahmedabad (AMD),369,15:45,17:55,,Every Tue,20-Feb-18,27-Feb-18
+Bengaluru (BLR),Ahmedabad (AMD),452,17:30,19:55,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Amritsar (ATQ),477,10:00,12:55,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Bhubaneswar (BBI),312,08:00,10:00,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Bhubaneswar (BBI),165,09:40,11:35,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Bhubaneswar (BBI),312,11:15,13:20,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Bhubaneswar (BBI),823,11:50,13:45,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Bhubaneswar (BBI),411,15:25,17:20,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Bhubaneswar (BBI),411,15:45,17:40,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Mumbai (BOM),456,05:05,06:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),482,06:10,07:55,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),424,07:10,08:55,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),464,09:20,11:05,,Except Sun,19-Feb-18,26-Feb-18
+Bengaluru (BLR),Mumbai (BOM),464,09:20,11:05,,Every Sun,25-Feb-18,18-Mar-18
+Bengaluru (BLR),Mumbai (BOM),464,09:20,11:05,,Except Sun,27-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),346,10:20,12:05,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),414,12:20,14:05,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Mumbai (BOM),414,12:50,14:35,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),6128,14:50,16:35,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),361,15:35,17:20,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),5449,17:55,19:45,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),566,19:35,21:30,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),3794,21:30,23:15,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mumbai (BOM),849,23:20,00:55,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kolkata (CCU),3514,05:05,08:10,,Every Tue,20-Feb-18,20-Feb-18
+Bengaluru (BLR),Kolkata (CCU),713,05:10,07:40,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kolkata (CCU),339,06:10,08:40,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kolkata (CCU),3512,07:05,09:25,,"Except Tue, Sun",19-Feb-18,26-Feb-18
+Bengaluru (BLR),Kolkata (CCU),344,08:35,11:10,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kolkata (CCU),874,09:50,12:25,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kolkata (CCU),433,10:50,13:20,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kolkata (CCU),172,12:15,14:50,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Kolkata (CCU),172,12:20,14:50,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kolkata (CCU),997,14:40,17:20,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kolkata (CCU),714,18:10,20:40,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kolkata (CCU),676,19:15,21:45,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kolkata (CCU),529,22:50,01:20,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Coimbatore (CJB),354,08:05,09:10,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Coimbatore (CJB),317,13:10,14:00,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Coimbatore (CJB),317,16:40,17:40,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Coimbatore (CJB),354,19:40,20:30,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Colombo (CMB),1205,17:55,19:30,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kochi (COK),536,06:30,07:35,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kochi (COK),413,08:45,10:10,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kochi (COK),425,11:10,12:15,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kochi (COK),407,12:50,13:55,,Every Sat,24-Feb-18,24-Mar-18
+Bengaluru (BLR),Kochi (COK),407,13:00,14:05,,"Except Tue, Sat",19-Feb-18,23-Mar-18
+Bengaluru (BLR),Kochi (COK),348,16:05,17:10,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kochi (COK),6965,19:10,20:15,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kochi (COK),348,19:50,20:55,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Kochi (COK),316,21:35,22:45,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Kochi (COK),6505,22:20,23:25,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Dehradun (DED),3512,07:05,10:00,,Every Sun,25-Feb-18,18-Mar-18
+Bengaluru (BLR),Dehradun (DED),911,13:15,16:00,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),475,04:00,06:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),132,05:35,08:20,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Delhi (DEL),132,06:00,08:45,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),6228,07:05,09:55,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),367,08:25,11:20,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),943,10:20,13:00,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),108,10:30,13:20,,Every Sat,24-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),6065,12:30,15:25,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),246,13:05,15:55,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),978,14:35,17:25,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),3988,17:00,19:55,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),783,18:25,21:20,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),808,19:00,21:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),6726,20:00,22:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),305,21:10,00:10,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Delhi (DEL),305,21:15,00:10,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),289,22:10,01:00,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Delhi (DEL),484,23:05,01:55,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Dubai (DXB),95,07:10,09:55,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Guwahati (GAU),457,06:55,09:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Guwahati (GAU),119,15:30,18:25,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Goa (GOI),194,06:20,07:35,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Goa (GOI),345,12:55,14:10,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Goa (GOI),279,18:20,19:30,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Goa (GOI),6236,23:10,00:30,,Daily,19-Feb-18,23-Mar-18
+Bengaluru (BLR),Goa (GOI),6236,23:10,00:25,,Every Sat,24-Mar-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),602,05:15,06:40,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),266,06:10,07:25,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),186,07:40,08:45,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),328,08:20,09:30,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),526,10:05,11:15,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),262,12:05,13:15,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),262,12:05,13:20,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),466,15:40,16:50,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),466,16:15,17:20,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),684,16:55,18:10,,Except Thu,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),638,17:45,18:55,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),855,18:50,20:00,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),149,20:30,21:40,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),412,22:30,23:40,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Hyderabad (HYD),497,23:30,00:45,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Indore (IDR),811,05:15,07:10,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Indore (IDR),287,10:00,12:10,,Except Sun,01-Mar-18,24-Mar-18
+Bengaluru (BLR),Indore (IDR),369,14:25,16:35,,Except Tue,01-Mar-18,24-Mar-18
+Bengaluru (BLR),Indore (IDR),369,15:45,17:50,,Every Tue,06-Mar-18,20-Mar-18
+Bengaluru (BLR),Chandigarh (IXC),3514,04:40,07:45,,Every Tue,27-Feb-18,20-Mar-18
+Bengaluru (BLR),Chandigarh (IXC),3512,07:05,10:10,,"Except Tue, Sun",28-Feb-18,24-Mar-18
+Bengaluru (BLR),Mangalore (IXE),6724,05:40,06:30,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mangalore (IXE),902,14:55,15:45,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Mangalore (IXE),902,15:15,16:05,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Mangalore (IXE),875,20:30,21:20,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Madurai (IXM),912,19:45,20:45,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Ranchi (IXR),822,06:50,09:10,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Jaipur (JAI),164,00:20,02:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Jaipur (JAI),641,06:05,08:30,,Daily,19-Feb-18,03-Mar-18
+Bengaluru (BLR),Jaipur (JAI),641,06:05,08:10,,Every Sun,04-Mar-18,04-Mar-18
+Bengaluru (BLR),Jaipur (JAI),641,06:05,08:30,,Daily,05-Mar-18,24-Mar-18
+Bengaluru (BLR),Jaipur (JAI),469,17:15,19:45,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Lucknow (LKO),903,05:20,07:55,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Lucknow (LKO),6903,10:20,13:00,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Lucknow (LKO),163,11:10,13:40,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Lucknow (LKO),847,18:30,21:00,,Daily,19-Feb-18,28-Feb-18
+Bengaluru (BLR),Lucknow (LKO),847,18:30,20:40,,Daily,01-Mar-18,24-Mar-18
+Bengaluru (BLR),Chennai (MAA),233,06:20,07:15,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Chennai (MAA),196,07:30,08:35,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Chennai (MAA),541,09:20,10:15,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Chennai (MAA),389,12:25,13:20,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Chennai (MAA),237,14:35,15:35,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Chennai (MAA),729,19:55,20:55,,Daily,20-Feb-18,24-Mar-18
+Bengaluru (BLR),Chennai (MAA),729,20:00,20:55,,Every Mon,19-Feb-18,19-Feb-18
+Bengaluru (BLR),Nagpur (NAG),509,06:05,07:45,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Nagpur (NAG),356,11:55,13:35,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Nagpur (NAG),356,14:25,16:05,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Patna (PAT),897,06:15,08:50,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Patna (PAT),897,08:30,11:00,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Patna (PAT),485,11:45,14:15,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Pune (PNQ),445,00:10,01:35,,Daily,20-Feb-18,24-Mar-18
+Bengaluru (BLR),Pune (PNQ),408,05:25,06:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Pune (PNQ),6104,09:40,11:10,,Except Sat,19-Feb-18,23-Mar-18
+Bengaluru (BLR),Pune (PNQ),287,10:55,12:30,,Every Sun,25-Feb-18,18-Mar-18
+Bengaluru (BLR),Pune (PNQ),528,17:05,18:30,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Pune (PNQ),426,20:25,21:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Pune (PNQ),232,22:50,00:15,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Rajahmundry (RJA),7121,10:45,12:30,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Singapore (SIN),73,21:20,04:30,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Tirupati (TIR),7107,09:30,10:30,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Tirupati (TIR),7114,15:40,16:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Thiruvananthapuram (TRV),873,05:55,07:10,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Thiruvananthapuram (TRV),379,08:55,10:15,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Thiruvananthapuram (TRV),527,13:40,14:55,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Thiruvananthapuram (TRV),126,19:35,20:50,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Thiruvananthapuram (TRV),463,20:10,21:20,,Except Sun,19-Feb-18,26-Feb-18
+Bengaluru (BLR),Thiruvananthapuram (TRV),463,20:10,21:20,,Every Sun,25-Feb-18,18-Mar-18
+Bengaluru (BLR),Thiruvananthapuram (TRV),463,20:10,21:20,,Except Sun,27-Feb-18,24-Mar-18
+Bengaluru (BLR),Vijayawada (VGA),7204,10:00,11:35,,Daily,02-Mar-18,24-Mar-18
+Bengaluru (BLR),Varanasi (VNS),178,17:45,20:10,,Except Tue,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Varanasi (VNS),178,18:10,20:35,,Every Tue,20-Feb-18,20-Mar-18
+Bengaluru (BLR),Visakhapatnam (VTZ),288,05:50,07:20,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Visakhapatnam (VTZ),438,17:30,19:00,,Daily,19-Feb-18,24-Mar-18
+Bengaluru (BLR),Visakhapatnam (VTZ),622,19:05,20:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Ahmedabad (AMD),213,07:35,08:50,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Ahmedabad (AMD),181,12:15,13:30,,Except Sun,19-Feb-18,28-Feb-18
+Mumbai (BOM),Ahmedabad (AMD),215,16:30,17:50,,Daily,19-Feb-18,28-Feb-18
+Mumbai (BOM),Ahmedabad (AMD),215,17:45,19:25,,Daily,01-Mar-18,24-Mar-18
+Mumbai (BOM),Ahmedabad (AMD),361,17:55,19:10,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Ahmedabad (AMD),639,19:50,21:05,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Ahmedabad (AMD),6433,21:05,22:15,,Daily,19-Feb-18,28-Feb-18
+Mumbai (BOM),Ahmedabad (AMD),6433,21:45,22:55,,Daily,01-Mar-18,24-Mar-18
+Mumbai (BOM),Amritsar (ATQ),453,10:45,13:10,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bhubaneswar (BBI),533,10:20,12:35,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bhubaneswar (BBI),598,16:55,19:20,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Vadodara (BDQ),567,06:25,07:35,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Vadodara (BDQ),339,15:30,16:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),848,00:10,02:00,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),199,06:05,07:45,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),715,07:30,09:10,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),236,09:30,11:10,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),6939,12:40,14:20,,Except Tue,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),6939,13:30,15:15,,Every Tue,20-Feb-18,20-Mar-18
+Mumbai (BOM),Bengaluru (BLR),3177,15:45,17:25,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),5533,17:20,19:00,,Except Tue,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),463,17:45,19:30,,Except Sun,19-Feb-18,26-Feb-18
+Mumbai (BOM),Bengaluru (BLR),463,17:45,19:30,,Every Sun,25-Feb-18,18-Mar-18
+Mumbai (BOM),Bengaluru (BLR),463,17:45,19:30,,Except Sun,27-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),799,19:05,20:45,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),949,20:35,22:15,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),825,21:30,23:10,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Bengaluru (BLR),565,22:30,00:10,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Kozhikode (CCJ),129,20:20,22:10,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Kolkata (CCU),6749,07:35,10:20,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Kolkata (CCU),321,09:15,12:10,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Kolkata (CCU),323,11:30,14:05,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Kolkata (CCU),395,17:55,20:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Kolkata (CCU),5153,20:05,22:45,,Daily,19-Feb-18,28-Feb-18
+Mumbai (BOM),Kolkata (CCU),5153,21:05,23:45,,Daily,01-Mar-18,24-Mar-18
+Mumbai (BOM),Kolkata (CCU),587,21:55,00:35,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Coimbatore (CJB),375,11:55,13:50,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Coimbatore (CJB),6313,21:10,23:05,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Kochi (COK),568,09:40,11:40,,Every Tue,20-Feb-18,20-Mar-18
+Mumbai (BOM),Kochi (COK),214,11:15,13:20,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Kochi (COK),223,13:25,15:30,,Except Tue,19-Feb-18,24-Mar-18
+Mumbai (BOM),Kochi (COK),755,18:55,21:00,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Kochi (COK),185,23:15,01:05,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),6489,00:15,02:35,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),154,01:50,04:15,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),3612,06:00,08:15,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),917,07:50,10:10,,Every Thu,22-Feb-18,22-Feb-18
+Mumbai (BOM),Delhi (DEL),917,07:50,10:10,,"Every Wed, Fri",02-Mar-18,07-Mar-18
+Mumbai (BOM),Delhi (DEL),917,07:50,10:10,,Every Thu,15-Mar-18,22-Mar-18
+Mumbai (BOM),Delhi (DEL),964,07:50,10:10,,Except Thu,19-Feb-18,25-Feb-18
+Mumbai (BOM),Delhi (DEL),964,07:50,10:10,,"Except Fri, Sun",26-Feb-18,03-Mar-18
+Mumbai (BOM),Delhi (DEL),964,07:50,10:10,,Every Sun,04-Mar-18,18-Mar-18
+Mumbai (BOM),Delhi (DEL),964,07:50,10:10,,"Except Wed, Sun",05-Mar-18,10-Mar-18
+Mumbai (BOM),Delhi (DEL),964,07:50,10:10,,"Except Thu, Sun",12-Mar-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),205,08:25,10:45,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),5126,09:30,11:45,,Daily,19-Feb-18,28-Feb-18
+Mumbai (BOM),Delhi (DEL),5126,09:30,11:50,,Daily,01-Mar-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),298,10:55,13:30,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),168,12:40,15:00,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),176,13:30,15:45,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),5448,14:30,16:45,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),5097,15:15,17:35,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),174,16:15,18:35,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),956,17:45,20:00,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),439,18:50,21:00,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),841,19:55,22:15,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),248,20:40,23:00,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Delhi (DEL),198,22:20,00:35,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Doha (DOH),1709,11:20,12:30,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Dubai (DXB),63,08:30,10:30,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Dubai (DXB),61,18:40,20:25,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Guwahati (GAU),958,07:45,10:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Guwahati (GAU),813,16:40,19:50,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Goa (GOI),179,11:25,12:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Goa (GOI),5924,12:45,14:05,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Goa (GOI),711,13:50,15:20,,Except Tue,19-Feb-18,24-Mar-18
+Mumbai (BOM),Goa (GOI),419,15:15,16:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Goa (GOI),981,15:45,17:05,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Hyderabad (HYD),272,01:40,03:15,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Hyderabad (HYD),461,06:20,07:45,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Hyderabad (HYD),366,09:10,10:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Hyderabad (HYD),821,12:00,13:25,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Hyderabad (HYD),264,15:20,16:45,,Except Sun,19-Feb-18,26-Feb-18
+Mumbai (BOM),Hyderabad (HYD),264,15:20,16:45,,Every Sun,25-Feb-18,18-Mar-18
+Mumbai (BOM),Hyderabad (HYD),264,15:20,16:45,,Except Sun,27-Feb-18,24-Mar-18
+Mumbai (BOM),Hyderabad (HYD),834,16:55,18:30,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Hyderabad (HYD),628,18:55,20:30,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Hyderabad (HYD),254,20:05,21:30,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Hyderabad (HYD),234,21:25,22:50,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Indore (IDR),496,10:35,12:00,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Indore (IDR),181,12:00,13:05,,Daily,01-Mar-18,24-Mar-18
+Mumbai (BOM),Indore (IDR),181,12:15,13:25,,Every Sun,25-Feb-18,25-Feb-18
+Mumbai (BOM),Indore (IDR),741,14:55,16:15,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Indore (IDR),225,19:25,20:50,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Chandigarh (IXC),495,09:20,11:45,,Except Sun,27-Feb-18,24-Mar-18
+Mumbai (BOM),Chandigarh (IXC),464,11:40,14:05,,Except Sun,27-Feb-18,24-Mar-18
+Mumbai (BOM),Mangalore (IXE),568,09:40,11:30,,Except Tue,19-Feb-18,24-Mar-18
+Mumbai (BOM),Mangalore (IXE),223,13:55,15:35,,Every Tue,20-Feb-18,20-Mar-18
+Mumbai (BOM),Mangalore (IXE),6621,15:55,17:50,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Jammu (IXJ),559,11:00,13:45,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Jaipur (JAI),207,05:25,07:20,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Jaipur (JAI),495,09:20,11:30,,Except Sun,19-Feb-18,26-Feb-18
+Mumbai (BOM),Jaipur (JAI),504,17:15,19:05,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Jaipur (JAI),217,19:50,21:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Lucknow (LKO),464,11:40,14:00,,Except Sun,19-Feb-18,26-Feb-18
+Mumbai (BOM),Lucknow (LKO),464,11:50,14:15,,Every Sun,25-Feb-18,18-Mar-18
+Mumbai (BOM),Lucknow (LKO),342,14:25,16:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Lucknow (LKO),6446,17:25,19:25,,Daily,01-Mar-18,24-Mar-18
+Mumbai (BOM),Lucknow (LKO),6446,19:35,21:50,,Daily,19-Feb-18,28-Feb-18
+Mumbai (BOM),Chennai (MAA),386,00:20,02:20,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Chennai (MAA),229,06:10,08:10,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Chennai (MAA),3834,09:45,11:45,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Chennai (MAA),768,14:40,16:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Chennai (MAA),675,19:30,21:30,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Chennai (MAA),459,21:05,23:05,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Muscat (MCT),81,20:15,21:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Nagpur (NAG),482,08:30,10:00,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Nagpur (NAG),403,15:55,17:30,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Patna (PAT),787,12:25,14:55,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Raipur (RPR),801,09:25,11:15,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Raipur (RPR),495,09:35,11:25,,Every Sun,25-Feb-18,18-Mar-18
+Mumbai (BOM),Raipur (RPR),324,14:35,16:25,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Thiruvananthapuram (TRV),957,14:15,16:30,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Udaipur (UDR),749,12:20,13:40,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Udaipur (UDR),764,17:25,18:50,,Daily,19-Feb-18,28-Feb-18
+Mumbai (BOM),Udaipur (UDR),764,19:10,20:30,,Daily,01-Mar-18,24-Mar-18
+Mumbai (BOM),Varanasi (VNS),578,12:10,14:20,,Daily,19-Feb-18,24-Mar-18
+Mumbai (BOM),Varanasi (VNS),712,16:45,19:00,,Daily,19-Feb-18,24-Mar-18
+Kozhikode (CCJ),Mumbai (BOM),5448,11:40,13:35,,Daily,19-Feb-18,24-Mar-18
+Kozhikode (CCJ),Doha (DOH),1711,11:50,14:10,,Daily,19-Feb-18,24-Mar-18
+Kozhikode (CCJ),Dubai (DXB),88,01:45,04:25,,Daily,19-Feb-18,24-Mar-18
+Kozhikode (CCJ),Muscat (MCT),1303,19:05,21:25,,Daily,19-Feb-18,24-Mar-18
+Kozhikode (CCJ),Sharjah (SHJ),1403,05:55,08:20,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Ahmedabad (AMD),202,12:50,15:40,,Daily,19-Feb-18,28-Feb-18
+Kolkata (CCU),Ahmedabad (AMD),674,18:35,21:25,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Ahmedabad (AMD),362,22:40,01:30,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bhubaneswar (BBI),375,07:10,08:15,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bhubaneswar (BBI),512,11:45,12:55,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bhubaneswar (BBI),3869,19:25,20:30,,Except Tue,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bhubaneswar (BBI),3869,19:45,20:55,,Every Tue,20-Feb-18,20-Mar-18
+Kolkata (CCU),Bangkok (BKK),75,10:10,14:40,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bangkok (BKK),77,20:45,01:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bengaluru (BLR),379,05:30,08:20,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bengaluru (BLR),491,08:40,10:55,,Every Tue,20-Feb-18,20-Feb-18
+Kolkata (CCU),Bengaluru (BLR),345,09:30,12:10,,Except Tue,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bengaluru (BLR),491,09:55,13:00,,"Except Tue, Sun",19-Feb-18,26-Feb-18
+Kolkata (CCU),Bengaluru (BLR),822,11:30,14:10,,Except Tue,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bengaluru (BLR),958,14:25,17:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bengaluru (BLR),994,15:10,17:45,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bengaluru (BLR),6965,15:20,18:05,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bengaluru (BLR),875,17:15,19:55,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bengaluru (BLR),342,20:25,23:05,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bengaluru (BLR),716,21:25,00:10,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bengaluru (BLR),506,22:25,01:05,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Mumbai (BOM),318,05:35,08:35,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Mumbai (BOM),496,07:00,10:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Mumbai (BOM),429,10:55,14:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Mumbai (BOM),326,14:35,17:30,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Mumbai (BOM),596,17:00,20:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Mumbai (BOM),961,21:30,00:30,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),474,06:05,08:35,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),5324,07:05,09:30,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),854,08:50,11:20,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),918,09:45,12:25,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),6488,11:50,14:30,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),6616,13:05,15:40,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),417,14:50,17:20,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),206,16:50,19:20,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),974,19:10,21:40,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),476,20:20,22:55,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Delhi (DEL),224,21:45,00:15,,Except Tue,19-Feb-18,24-Mar-18
+Kolkata (CCU),Dibrugarh (DIB),591,12:30,14:05,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Dimapur (DMU),377,10:35,12:05,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Guwahati (GAU),3955,05:35,07:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Guwahati (GAU),623,06:45,08:05,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Guwahati (GAU),207,10:40,11:50,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Guwahati (GAU),321,12:40,13:55,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Guwahati (GAU),244,14:15,15:45,,Daily,01-Mar-18,24-Mar-18
+Kolkata (CCU),Guwahati (GAU),244,15:00,16:10,,"Except Thu, Fri",24-Feb-18,28-Feb-18
+Kolkata (CCU),Guwahati (GAU),627,15:00,16:10,,"Except Sat, Sun",19-Feb-18,23-Feb-18
+Kolkata (CCU),Guwahati (GAU),292,15:50,17:10,,Daily,19-Feb-18,28-Feb-18
+Kolkata (CCU),Guwahati (GAU),292,18:20,19:30,,Daily,01-Mar-18,24-Mar-18
+Kolkata (CCU),Guwahati (GAU),573,19:55,21:25,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Goa (GOI),634,11:25,14:30,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Hyderabad (HYD),788,05:40,08:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Hyderabad (HYD),274,14:10,16:20,,Except Sun,19-Feb-18,26-Feb-18
+Kolkata (CCU),Hyderabad (HYD),886,15:15,17:35,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Hyderabad (HYD),914,17:40,19:55,,Daily,01-Mar-18,24-Mar-18
+Kolkata (CCU),Hyderabad (HYD),373,19:20,21:40,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Hyderabad (HYD),725,20:40,22:55,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Hyderabad (HYD),3248,22:00,00:30,,Daily,01-Mar-18,24-Mar-18
+Kolkata (CCU),Hyderabad (HYD),6248,22:30,00:45,,Daily,19-Feb-18,28-Feb-18
+Kolkata (CCU),Imphal (IMF),6523,09:05,10:20,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Imphal (IMF),6114,11:35,12:50,,"Except Mon, Thu, Sat",20-Feb-18,23-Mar-18
+Kolkata (CCU),Imphal (IMF),874,13:30,14:50,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Agartala (IXA),139,07:30,08:30,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Agartala (IXA),861,08:45,09:45,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Agartala (IXA),358,11:35,12:25,,"Every Mon, Thu, Sat",19-Feb-18,24-Mar-18
+Kolkata (CCU),Agartala (IXA),973,12:55,14:05,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Agartala (IXA),892,14:30,15:30,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Agartala (IXA),374,16:10,17:05,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Agartala (IXA),276,17:55,18:55,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bagdogra (IXB),797,10:50,12:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bagdogra (IXB),433,13:50,15:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Bagdogra (IXB),5401,16:30,17:50,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Ranchi (IXR),344,11:40,12:40,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Ranchi (IXR),997,17:50,18:50,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Port Blair (IXZ),972,06:15,08:45,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Port Blair (IXZ),282,07:35,09:50,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Jaipur (JAI),238,05:00,07:30,,Daily,19-Feb-18,04-Mar-18
+Kolkata (CCU),Jaipur (JAI),238,05:00,07:30,,Daily,05-Mar-18,24-Mar-18
+Kolkata (CCU),Jaipur (JAI),6204,14:20,16:55,,Daily,19-Feb-18,28-Feb-18
+Kolkata (CCU),Jaipur (JAI),394,15:50,18:05,,Daily,01-Mar-18,24-Mar-18
+Kolkata (CCU),Jaipur (JAI),832,21:00,23:30,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Lucknow (LKO),844,04:40,06:20,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Lucknow (LKO),856,18:35,20:25,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Chennai (MAA),271,06:00,08:40,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Chennai (MAA),563,08:15,10:40,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Chennai (MAA),822,11:30,14:10,,Every Tue,20-Feb-18,20-Mar-18
+Kolkata (CCU),Chennai (MAA),275,14:05,16:35,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Chennai (MAA),3326,16:15,19:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Chennai (MAA),192,18:05,20:25,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Chennai (MAA),534,18:20,20:45,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Chennai (MAA),291,19:30,21:55,,Daily,19-Feb-18,28-Feb-18
+Kolkata (CCU),Chennai (MAA),291,21:50,00:15,,Daily,01-Mar-18,24-Mar-18
+Kolkata (CCU),Nagpur (NAG),404,18:00,20:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Patna (PAT),339,09:20,10:30,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Patna (PAT),811,11:45,13:00,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Patna (PAT),633,14:30,15:50,,Daily,01-Mar-18,24-Mar-18
+Kolkata (CCU),Patna (PAT),633,18:30,19:45,,Daily,19-Feb-18,28-Feb-18
+Kolkata (CCU),Pune (PNQ),794,19:10,21:55,,Every Sat,24-Feb-18,24-Mar-18
+Kolkata (CCU),Pune (PNQ),794,19:15,22:00,,Except Sat,19-Feb-18,23-Mar-18
+Kolkata (CCU),Pune (PNQ),277,21:05,23:50,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Raipur (RPR),245,06:35,08:05,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Raipur (RPR),708,15:15,16:45,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Varanasi (VNS),713,08:20,09:45,,Daily,19-Feb-18,24-Mar-18
+Kolkata (CCU),Visakhapatnam (VTZ),833,10:30,12:10,,Daily,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Bengaluru (BLR),312,09:40,10:40,,Every Tue,20-Feb-18,20-Mar-18
+Coimbatore (CJB),Bengaluru (BLR),347,14:30,15:30,,Except Tue,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Bengaluru (BLR),347,18:10,19:20,,Every Tue,20-Feb-18,20-Mar-18
+Coimbatore (CJB),Bengaluru (BLR),355,21:00,21:45,,Except Tue,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Mumbai (BOM),453,07:55,09:50,,Daily,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Mumbai (BOM),598,14:20,16:20,,Daily,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Delhi (DEL),985,11:20,14:25,,Except Sun,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Delhi (DEL),985,11:20,14:20,,Every Sun,25-Feb-18,18-Mar-18
+Coimbatore (CJB),Delhi (DEL),396,19:00,22:00,,Daily,19-Feb-18,28-Feb-18
+Coimbatore (CJB),Delhi (DEL),396,19:00,21:55,,Daily,01-Mar-18,24-Mar-18
+Coimbatore (CJB),Hyderabad (HYD),752,11:15,12:40,,Daily,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Hyderabad (HYD),779,22:45,00:15,,Daily,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Chennai (MAA),892,10:00,11:00,,Daily,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Chennai (MAA),237,14:30,15:35,,Every Tue,20-Feb-18,20-Mar-18
+Coimbatore (CJB),Chennai (MAA),882,15:45,16:45,,Daily,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Chennai (MAA),3752,17:00,18:05,,Daily,19-Feb-18,24-Mar-18
+Coimbatore (CJB),Chennai (MAA),6364,23:35,00:35,,Daily,19-Feb-18,24-Mar-18
+Colombo (CMB),Bengaluru (BLR),1206,12:30,14:00,,Every Wed,21-Feb-18,21-Mar-18
+Colombo (CMB),Bengaluru (BLR),1206,14:25,15:55,,Except Wed,19-Feb-18,24-Mar-18
+Colombo (CMB),Chennai (MAA),1212,06:30,07:55,,Every Wed,21-Feb-18,21-Mar-18
+Colombo (CMB),Chennai (MAA),1202,09:15,11:00,,Except Wed,19-Feb-18,24-Mar-18
+Colombo (CMB),Chennai (MAA),1204,20:30,21:55,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Bengaluru (BLR),521,05:30,06:35,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Bengaluru (BLR),537,08:25,09:30,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Bengaluru (BLR),172,10:40,11:45,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Bengaluru (BLR),369,12:45,13:50,,Except Tue,19-Feb-18,24-Mar-18
+Kochi (COK),Bengaluru (BLR),369,13:55,15:05,,Every Tue,20-Feb-18,20-Mar-18
+Kochi (COK),Bengaluru (BLR),528,15:25,16:30,,Except Tue,19-Feb-18,24-Mar-18
+Kochi (COK),Bengaluru (BLR),349,18:05,19:05,,Except Tue,19-Feb-18,24-Mar-18
+Kochi (COK),Bengaluru (BLR),412,20:45,21:50,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Bengaluru (BLR),349,21:25,22:40,,Every Tue,20-Feb-18,20-Mar-18
+Kochi (COK),Bengaluru (BLR),709,23:20,00:30,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Mumbai (BOM),184,02:20,04:25,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Mumbai (BOM),298,08:00,10:05,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Mumbai (BOM),439,12:10,14:10,,Every Tue,20-Feb-18,20-Mar-18
+Kochi (COK),Mumbai (BOM),215,13:50,15:50,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Mumbai (BOM),439,16:00,18:05,,Except Tue,19-Feb-18,24-Mar-18
+Kochi (COK),Delhi (DEL),837,02:15,05:30,,"Every Wed, Fri, Sun",21-Feb-18,23-Mar-18
+Kochi (COK),Delhi (DEL),837,02:20,05:35,,Every Sun,25-Mar-18,25-Mar-18
+Kochi (COK),Delhi (DEL),516,06:25,09:35,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Delhi (DEL),706,19:40,22:55,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Doha (DOH),1703,18:50,21:00,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Dubai (DXB),71,01:40,04:15,,Except Sun,27-Feb-18,10-Mar-18
+Kochi (COK),Dubai (DXB),71,01:40,04:15,,Daily,12-Mar-18,24-Mar-18
+Kochi (COK),Dubai (DXB),79,05:35,08:25,,Every Sun,04-Mar-18,11-Mar-18
+Kochi (COK),Dubai (DXB),79,05:50,08:20,,Daily,19-Feb-18,26-Feb-18
+Kochi (COK),Dubai (DXB),67,18:40,21:15,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Hyderabad (HYD),334,08:20,10:00,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Hyderabad (HYD),6468,12:40,14:15,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Hyderabad (HYD),263,21:10,22:45,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Chennai (MAA),269,07:30,08:50,,Daily,19-Feb-18,26-Feb-18
+Kochi (COK),Chennai (MAA),269,07:30,08:50,,Daily,27-Feb-18,24-Mar-18
+Kochi (COK),Chennai (MAA),571,13:30,14:45,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Chennai (MAA),755,21:30,22:55,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Muscat (MCT),83,17:25,19:45,,Except Tue,19-Feb-18,24-Mar-18
+Kochi (COK),Muscat (MCT),83,17:40,19:45,,Every Tue,20-Feb-18,20-Mar-18
+Kochi (COK),Pune (PNQ),337,00:25,02:15,,Daily,19-Feb-18,24-Mar-18
+Kochi (COK),Pune (PNQ),528,13:20,15:00,,Every Tue,20-Feb-18,20-Mar-18
+Kochi (COK),Thiruvananthapuram (TRV),359,00:50,01:35,,"Except Wed, Fri, Sun",20-Feb-18,24-Mar-18
+Kochi (COK),Thiruvananthapuram (TRV),315,09:35,10:25,,Daily,19-Feb-18,24-Mar-18
+Dehradun (DED),Bengaluru (BLR),491,10:35,13:45,,Every Sun,25-Feb-18,18-Mar-18
+Dehradun (DED),Bengaluru (BLR),912,16:30,19:15,,Except Tue,19-Feb-18,24-Mar-18
+Dehradun (DED),Delhi (DEL),455,08:00,09:00,,Daily,19-Feb-18,25-Feb-18
+Dehradun (DED),Delhi (DEL),455,08:00,09:00,,"Every Mon, Sun",26-Feb-18,04-Mar-18
+Dehradun (DED),Delhi (DEL),455,08:00,09:00,,Every Sun,11-Mar-18,18-Mar-18
+Dehradun (DED),Delhi (DEL),679,12:50,13:45,,Daily,19-Feb-18,24-Mar-18
+Dehradun (DED),Delhi (DEL),755,14:35,15:25,,Daily,19-Feb-18,24-Mar-18
+Dehradun (DED),Delhi (DEL),963,17:55,19:00,,Daily,19-Feb-18,24-Mar-18
+Dehradun (DED),Hyderabad (HYD),274,14:10,16:40,,Every Sun,04-Mar-18,18-Mar-18
+Dehradun (DED),Lucknow (LKO),588,14:10,15:35,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Ahmedabad (AMD),517,06:40,08:15,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Ahmedabad (AMD),6373,06:55,08:25,,Except Sun,01-Mar-18,24-Mar-18
+Delhi (DEL),Ahmedabad (AMD),6373,07:05,08:25,,Every Sun,04-Mar-18,18-Mar-18
+Delhi (DEL),Ahmedabad (AMD),6373,07:35,09:35,,Except Sun,19-Feb-18,28-Feb-18
+Delhi (DEL),Ahmedabad (AMD),6373,07:35,09:05,,Every Sun,25-Feb-18,25-Feb-18
+Delhi (DEL),Ahmedabad (AMD),161,11:00,12:35,,Except Sun,19-Feb-18,28-Feb-18
+Delhi (DEL),Ahmedabad (AMD),432,13:30,15:10,,Daily,19-Feb-18,28-Feb-18
+Delhi (DEL),Ahmedabad (AMD),153,17:55,19:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Ahmedabad (AMD),658,20:45,22:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Ahmedabad (AMD),607,21:45,23:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Ahmedabad (AMD),625,22:50,00:25,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Amritsar (ATQ),524,05:15,06:25,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Amritsar (ATQ),367,12:10,13:25,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Amritsar (ATQ),894,21:30,22:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bhubaneswar (BBI),701,06:50,08:55,,Except Thu,19-Feb-18,24-Mar-18
+Delhi (DEL),Bhubaneswar (BBI),5013,09:15,11:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bhubaneswar (BBI),211,15:45,17:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bhubaneswar (BBI),6512,18:25,20:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bhubaneswar (BBI),841,22:50,00:55,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Vadodara (BDQ),702,05:10,06:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Vadodara (BDQ),6064,14:10,15:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Vadodara (BDQ),775,18:55,20:30,,Daily,19-Feb-18,28-Feb-18
+Delhi (DEL),Vadodara (BDQ),775,19:10,20:30,,Daily,01-Mar-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),133,05:05,07:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),458,06:20,09:05,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),6929,07:55,10:35,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),297,09:00,11:45,,Every Tue,20-Feb-18,20-Mar-18
+Delhi (DEL),Bengaluru (BLR),297,09:35,12:20,,Except Tue,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),6695,11:00,13:45,,Except Tue,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),423,13:00,15:45,,Except Tue,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),839,15:10,18:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),123,15:50,18:40,,Every Sat,24-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),126,16:00,18:45,,Except Tue,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),306,17:05,19:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),637,18:50,21:35,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),963,19:40,22:30,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),131,20:40,23:25,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),273,22:00,00:45,,Every Tue,20-Feb-18,20-Mar-18
+Delhi (DEL),Bengaluru (BLR),273,22:10,00:55,,Except Tue,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),977,22:40,01:25,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bengaluru (BLR),6376,23:50,02:35,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),171,05:05,07:15,,Except Thu,19-Feb-18,25-Feb-18
+Delhi (DEL),Mumbai (BOM),171,05:05,07:15,,Every Thu,22-Feb-18,22-Feb-18
+Delhi (DEL),Mumbai (BOM),171,05:05,07:15,,Except Fri,26-Feb-18,04-Mar-18
+Delhi (DEL),Mumbai (BOM),171,05:05,07:15,,"Every Wed, Fri",02-Mar-18,07-Mar-18
+Delhi (DEL),Mumbai (BOM),171,05:05,07:15,,Except Wed,05-Mar-18,11-Mar-18
+Delhi (DEL),Mumbai (BOM),171,05:05,07:15,,Except Thu,12-Mar-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),171,05:05,07:15,,Every Thu,15-Mar-18,22-Mar-18
+Delhi (DEL),Mumbai (BOM),993,06:40,08:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),167,07:30,09:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),179,08:30,10:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),181,09:30,11:40,,Daily,19-Feb-18,28-Feb-18
+Delhi (DEL),Mumbai (BOM),181,09:30,11:25,,Daily,01-Mar-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),223,10:35,12:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),957,11:30,13:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),3175,13:00,15:10,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),189,14:55,17:10,,Every Sun,25-Feb-18,18-Mar-18
+Delhi (DEL),Mumbai (BOM),189,15:00,17:10,,Except Sun,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),755,16:00,18:10,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),191,17:10,19:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),129,17:30,19:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),843,18:30,20:55,,Every Sat,24-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),843,18:35,20:55,,Except Sat,19-Feb-18,23-Mar-18
+Delhi (DEL),Mumbai (BOM),197,19:30,21:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),185,20:30,22:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),665,21:30,23:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Mumbai (BOM),155,22:30,00:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),282,04:55,07:05,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),861,05:45,08:15,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),219,06:50,09:00,,Except Tue,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),377,07:55,10:05,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),591,09:50,12:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),921,13:50,15:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),786,15:20,17:30,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),283,17:00,19:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),307,17:55,20:10,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),693,20:25,22:35,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kolkata (CCU),173,21:55,00:10,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Coimbatore (CJB),908,06:35,09:30,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Coimbatore (CJB),3752,13:20,16:15,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kochi (COK),315,05:35,08:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kochi (COK),6193,14:35,17:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kochi (COK),359,21:10,00:20,,"Except Tue, Thu, Sat",19-Feb-18,23-Mar-18
+Delhi (DEL),Dehradun (DED),545,06:35,07:30,,Daily,19-Feb-18,25-Feb-18
+Delhi (DEL),Dehradun (DED),545,06:35,07:30,,"Every Mon, Sun",26-Feb-18,04-Mar-18
+Delhi (DEL),Dehradun (DED),545,06:35,07:30,,Every Sun,11-Mar-18,18-Mar-18
+Delhi (DEL),Dehradun (DED),964,11:20,12:10,,Daily,19-Feb-18,25-Feb-18
+Delhi (DEL),Dehradun (DED),964,11:20,12:10,,"Except Fri, Sun",26-Feb-18,03-Mar-18
+Delhi (DEL),Dehradun (DED),964,11:20,12:10,,"Every Wed, Fri",02-Mar-18,07-Mar-18
+Delhi (DEL),Dehradun (DED),964,11:20,12:10,,"Except Wed, Sun",05-Mar-18,10-Mar-18
+Delhi (DEL),Dehradun (DED),964,11:20,12:10,,Except Sun,12-Mar-18,24-Mar-18
+Delhi (DEL),Dehradun (DED),964,11:30,12:10,,Every Sun,04-Mar-18,18-Mar-18
+Delhi (DEL),Dehradun (DED),966,13:00,13:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Dehradun (DED),246,16:25,17:25,,Every Tue,20-Feb-18,20-Mar-18
+Delhi (DEL),Dehradun (DED),246,16:35,17:25,,Except Tue,19-Feb-18,24-Mar-18
+Delhi (DEL),Dibrugarh (DIB),3645,10:50,13:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Doha (DOH),1701,01:50,03:30,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Dubai (DXB),47,02:05,04:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Dubai (DXB),23,06:45,09:25,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Dubai (DXB),55,15:40,18:20,,Except Sun,19-Feb-18,26-Feb-18
+Delhi (DEL),Dubai (DXB),55,15:50,18:20,,Every Sun,25-Feb-18,18-Mar-18
+Delhi (DEL),Dubai (DXB),21,16:55,19:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Guwahati (GAU),251,05:25,07:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Guwahati (GAU),939,07:45,10:10,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Guwahati (GAU),694,17:25,19:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Goa (GOI),329,10:50,13:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Goa (GOI),161,12:15,14:55,,Every Sun,25-Feb-18,25-Feb-18
+Delhi (DEL),Goa (GOI),687,14:40,17:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Goa (GOI),399,15:40,18:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Goa (GOI),582,18:45,21:30,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Goa (GOI),505,21:40,00:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),765,04:55,07:05,,Except Thu,19-Feb-18,25-Feb-18
+Delhi (DEL),Hyderabad (HYD),765,04:55,07:05,,Every Thu,22-Feb-18,22-Feb-18
+Delhi (DEL),Hyderabad (HYD),765,04:55,07:05,,Except Fri,26-Feb-18,04-Mar-18
+Delhi (DEL),Hyderabad (HYD),765,04:55,07:05,,"Every Wed, Fri",02-Mar-18,07-Mar-18
+Delhi (DEL),Hyderabad (HYD),765,04:55,07:05,,Except Wed,05-Mar-18,11-Mar-18
+Delhi (DEL),Hyderabad (HYD),765,04:55,07:05,,Except Thu,12-Mar-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),765,04:55,07:05,,Every Thu,15-Mar-18,22-Mar-18
+Delhi (DEL),Hyderabad (HYD),303,06:50,09:05,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),683,07:40,09:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),975,08:35,10:50,,Daily,25-Feb-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),5268,08:35,10:50,,Except Sun,19-Feb-18,24-Feb-18
+Delhi (DEL),Hyderabad (HYD),739,11:55,14:10,,Except Thu,19-Feb-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),575,13:10,15:25,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),679,14:25,16:30,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),747,16:10,18:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),601,19:10,21:05,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),635,20:40,22:50,,Daily,19-Feb-18,28-Feb-18
+Delhi (DEL),Hyderabad (HYD),635,21:35,23:50,,Daily,01-Mar-18,24-Mar-18
+Delhi (DEL),Hyderabad (HYD),767,22:35,00:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Indore (IDR),656,05:30,06:55,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Indore (IDR),733,11:05,12:30,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Indore (IDR),436,17:05,18:25,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Indore (IDR),646,19:35,21:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bagdogra (IXB),398,12:20,14:30,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Bagdogra (IXB),5263,13:55,16:05,,Every Sun,25-Feb-18,18-Mar-18
+Delhi (DEL),Bagdogra (IXB),5263,14:05,16:05,,Except Sun,19-Feb-18,24-Mar-18
+Delhi (DEL),Chandigarh (IXC),545,06:35,07:30,,Except Sun,27-Feb-18,24-Mar-18
+Delhi (DEL),Chandigarh (IXC),937,13:50,14:45,,Except Sun,27-Feb-18,24-Mar-18
+Delhi (DEL),Jammu (IXJ),554,07:25,08:55,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Jammu (IXJ),212,09:35,11:05,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Jammu (IXJ),249,14:15,15:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Ranchi (IXR),421,07:20,09:05,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Ranchi (IXR),509,11:50,13:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Ranchi (IXR),6325,15:35,17:25,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Ranchi (IXR),864,18:10,19:55,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Jaipur (JAI),5098,07:45,08:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Jaipur (JAI),525,09:05,09:45,,Except Sat,01-Mar-18,23-Mar-18
+Delhi (DEL),Jaipur (JAI),6962,09:05,09:45,,Every Sat,03-Mar-18,24-Mar-18
+Delhi (DEL),Jaipur (JAI),6962,09:25,10:15,,Daily,19-Feb-18,28-Feb-18
+Delhi (DEL),Jaipur (JAI),736,21:00,21:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Kathmandu (KTM),31,11:45,13:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Lucknow (LKO),6612,05:35,06:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Lucknow (LKO),634,06:35,07:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Lucknow (LKO),3612,08:55,10:15,,Daily,19-Feb-18,28-Feb-18
+Delhi (DEL),Lucknow (LKO),3612,08:55,10:05,,Daily,01-Mar-18,24-Mar-18
+Delhi (DEL),Lucknow (LKO),161,11:00,12:00,,Except Sun,01-Mar-18,24-Mar-18
+Delhi (DEL),Lucknow (LKO),161,11:20,12:00,,Every Sun,04-Mar-18,18-Mar-18
+Delhi (DEL),Lucknow (LKO),943,13:35,14:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Lucknow (LKO),959,16:45,17:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Lucknow (LKO),6528,18:50,20:15,,Daily,01-Mar-18,24-Mar-18
+Delhi (DEL),Lucknow (LKO),174,19:10,20:10,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Lucknow (LKO),528,21:50,22:55,,Daily,19-Feb-18,28-Feb-18
+Delhi (DEL),Chennai (MAA),985,06:25,09:15,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Chennai (MAA),606,07:15,10:05,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Chennai (MAA),443,08:25,11:15,,Daily,01-Mar-18,24-Mar-18
+Delhi (DEL),Chennai (MAA),859,08:25,11:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Chennai (MAA),443,09:55,12:40,,Daily,19-Feb-18,28-Feb-18
+Delhi (DEL),Chennai (MAA),397,16:25,19:15,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Chennai (MAA),613,18:05,21:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Chennai (MAA),6162,20:35,23:25,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Chennai (MAA),519,21:50,00:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Nagpur (NAG),774,05:20,07:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Nagpur (NAG),135,10:30,12:10,,Except Sat,19-Feb-18,23-Mar-18
+Delhi (DEL),Nagpur (NAG),221,19:55,21:30,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Patna (PAT),494,06:55,08:30,,Daily,19-Feb-18,28-Feb-18
+Delhi (DEL),Patna (PAT),494,07:10,08:35,,Daily,01-Mar-18,24-Mar-18
+Delhi (DEL),Patna (PAT),738,08:25,10:05,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Patna (PAT),5126,12:25,14:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Patna (PAT),581,14:15,15:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Patna (PAT),415,15:40,17:15,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Pune (PNQ),177,02:20,04:30,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Pune (PNQ),643,04:50,07:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Pune (PNQ),769,08:05,10:15,,Every Sat,24-Feb-18,24-Mar-18
+Delhi (DEL),Pune (PNQ),769,08:20,10:35,,Except Sat,19-Feb-18,23-Mar-18
+Delhi (DEL),Pune (PNQ),105,14:40,16:50,,Except Sat,19-Feb-18,23-Mar-18
+Delhi (DEL),Pune (PNQ),286,17:50,20:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Pune (PNQ),671,20:50,23:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Pune (PNQ),951,23:30,01:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Raipur (RPR),757,06:45,08:35,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Raipur (RPR),393,08:30,10:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Raipur (RPR),201,12:30,14:20,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Raipur (RPR),267,17:30,19:15,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Srinagar (SXR),653,10:10,11:40,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Srinagar (SXR),203,12:50,14:15,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Srinagar (SXR),148,15:05,16:35,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Thiruvananthapuram (TRV),6065,06:30,09:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Thiruvananthapuram (TRV),945,16:40,20:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Thiruvananthapuram (TRV),837,21:10,00:30,,"Every Tue, Thu, Sat",20-Feb-18,24-Mar-18
+Delhi (DEL),Udaipur (UDR),746,07:50,09:15,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Udaipur (UDR),751,13:25,14:45,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Varanasi (VNS),308,08:15,09:50,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Varanasi (VNS),432,13:50,15:20,,Daily,01-Mar-18,24-Mar-18
+Delhi (DEL),Varanasi (VNS),176,16:30,18:00,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Varanasi (VNS),826,18:10,19:35,,Daily,19-Feb-18,28-Feb-18
+Delhi (DEL),Varanasi (VNS),826,18:55,20:20,,Daily,01-Mar-18,24-Mar-18
+Delhi (DEL),Visakhapatnam (VTZ),719,05:20,07:35,,Daily,19-Feb-18,24-Mar-18
+Delhi (DEL),Visakhapatnam (VTZ),5313,19:15,21:30,,Daily,19-Feb-18,24-Mar-18
+Dibrugarh (DIB),Kolkata (CCU),206,14:35,16:20,,Daily,19-Feb-18,24-Mar-18
+Dibrugarh (DIB),Guwahati (GAU),3645,13:50,14:40,,Daily,19-Feb-18,24-Mar-18
+Dimapur (DMU),Kolkata (CCU),417,12:45,14:20,,Daily,19-Feb-18,24-Mar-18
+Doha (DOH),Mumbai (BOM),1708,04:30,10:20,,Daily,19-Feb-18,24-Mar-18
+Doha (DOH),Kozhikode (CCJ),1712,03:45,10:30,,Daily,19-Feb-18,24-Mar-18
+Doha (DOH),Kochi (COK),1704,10:30,17:40,,Daily,19-Feb-18,24-Mar-18
+Doha (DOH),Delhi (DEL),1702,13:30,19:50,,Daily,19-Feb-18,24-Mar-18
+Doha (DOH),Hyderabad (HYD),1714,22:00,04:50,,Daily,19-Feb-18,24-Mar-18
+Doha (DOH),Chennai (MAA),1706,15:10,22:20,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Bengaluru (BLR),96,10:55,16:10,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Mumbai (BOM),64,11:25,16:00,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Mumbai (BOM),62,20:50,01:25,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Kozhikode (CCJ),89,05:25,10:45,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Kochi (COK),72,19:20,00:40,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Kochi (COK),68,22:15,03:45,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Delhi (DEL),46,05:45,10:35,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Delhi (DEL),56,08:30,13:20,,Every Sun,18-Mar-18,18-Mar-18
+Dubai (DXB),Delhi (DEL),56,09:20,14:15,,Every Sun,25-Feb-18,25-Feb-18
+Dubai (DXB),Delhi (DEL),56,09:30,14:15,,"Except Thu, Sun",19-Feb-18,24-Feb-18
+Dubai (DXB),Delhi (DEL),56,09:30,14:15,,"Every Mon, Sun",26-Feb-18,04-Mar-18
+Dubai (DXB),Delhi (DEL),56,09:30,14:15,,Every Sun,11-Mar-18,11-Mar-18
+Dubai (DXB),Delhi (DEL),56,09:40,14:15,,Every Thu,22-Feb-18,22-Feb-18
+Dubai (DXB),Delhi (DEL),24,18:00,22:40,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Delhi (DEL),22,22:20,03:10,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Hyderabad (HYD),25,10:25,15:40,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Chandigarh (IXC),56,05:55,11:00,,Except Sun,27-Feb-18,24-Mar-18
+Dubai (DXB),Chennai (MAA),66,21:25,02:50,,Daily,19-Feb-18,24-Mar-18
+Dubai (DXB),Thiruvananthapuram (TRV),38,11:20,17:05,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Bengaluru (BLR),389,08:30,11:50,,Except Tue,19-Feb-18,24-Mar-18
+Guwahati (GAU),Bengaluru (BLR),389,08:30,11:45,,Every Tue,20-Feb-18,20-Mar-18
+Guwahati (GAU),Bengaluru (BLR),316,17:35,20:55,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Mumbai (BOM),5924,08:35,12:10,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Mumbai (BOM),433,17:00,20:35,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Kolkata (CCU),6918,07:30,08:35,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Kolkata (CCU),6204,12:20,13:45,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Kolkata (CCU),596,14:25,15:45,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Kolkata (CCU),856,16:30,18:05,,Daily,01-Mar-18,24-Mar-18
+Guwahati (GAU),Kolkata (CCU),856,16:40,18:05,,Daily,19-Feb-18,28-Feb-18
+Guwahati (GAU),Kolkata (CCU),291,17:45,19:00,,Daily,19-Feb-18,28-Feb-18
+Guwahati (GAU),Kolkata (CCU),572,18:15,19:25,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Kolkata (CCU),291,20:05,21:20,,Daily,01-Mar-18,24-Mar-18
+Guwahati (GAU),Kolkata (CCU),6248,20:30,22:00,,Daily,19-Feb-18,28-Feb-18
+Guwahati (GAU),Kolkata (CCU),6248,20:50,22:25,,Daily,01-Mar-18,24-Mar-18
+Guwahati (GAU),Delhi (DEL),687,11:05,14:00,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Delhi (DEL),3906,13:25,16:20,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Delhi (DEL),3645,15:10,18:20,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Delhi (DEL),558,20:15,23:10,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Hyderabad (HYD),187,15:00,18:00,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Imphal (IMF),251,08:20,09:15,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Imphal (IMF),939,10:40,11:40,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Imphal (IMF),186,12:15,13:15,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Agartala (IXA),457,10:20,11:20,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Bagdogra (IXB),958,11:10,12:15,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Chennai (MAA),905,07:25,10:30,,Daily,19-Feb-18,24-Mar-18
+Guwahati (GAU),Chennai (MAA),136,18:55,22:00,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Ahmedabad (AMD),948,01:15,03:35,,Daily,19-Feb-18,28-Feb-18
+Goa (GOI),Ahmedabad (AMD),948,01:50,03:35,,Daily,01-Mar-18,24-Mar-18
+Goa (GOI),Ahmedabad (AMD),162,15:25,17:05,,Daily,19-Feb-18,28-Feb-18
+Goa (GOI),Bengaluru (BLR),617,01:00,02:10,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Bengaluru (BLR),477,08:05,09:15,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Bengaluru (BLR),714,16:30,17:40,,Except Tue,19-Feb-18,24-Mar-18
+Goa (GOI),Bengaluru (BLR),281,20:00,21:10,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Mumbai (BOM),5097,13:15,14:35,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Mumbai (BOM),813,14:35,16:00,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Mumbai (BOM),712,14:45,16:10,,Except Tue,19-Feb-18,24-Mar-18
+Goa (GOI),Mumbai (BOM),418,17:10,18:30,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Mumbai (BOM),468,17:35,18:40,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Kolkata (CCU),292,15:00,17:50,,Daily,01-Mar-18,24-Mar-18
+Goa (GOI),Kolkata (CCU),633,15:00,17:45,,Daily,19-Feb-18,28-Feb-18
+Goa (GOI),Delhi (DEL),5532,00:50,03:30,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Delhi (DEL),332,14:10,16:50,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Delhi (DEL),724,17:50,20:30,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Delhi (DEL),6386,18:50,21:30,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Delhi (DEL),336,22:00,00:40,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Hyderabad (HYD),744,07:35,08:50,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Hyderabad (HYD),381,14:40,16:05,,Except Tue,19-Feb-18,24-Mar-18
+Goa (GOI),Hyderabad (HYD),381,14:45,16:05,,Every Tue,20-Feb-18,20-Mar-18
+Goa (GOI),Hyderabad (HYD),259,22:50,00:05,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Indore (IDR),252,13:00,14:45,,Daily,19-Feb-18,24-Mar-18
+Goa (GOI),Lucknow (LKO),162,15:25,16:55,,Daily,01-Mar-18,24-Mar-18
+Goa (GOI),Chennai (MAA),137,06:50,08:30,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Ahmedabad (AMD),995,05:05,07:00,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Ahmedabad (AMD),6361,11:45,13:35,,Except Sun,19-Feb-18,28-Feb-18
+Hyderabad (HYD),Ahmedabad (AMD),6362,13:10,15:05,,Every Sun,25-Feb-18,25-Feb-18
+Hyderabad (HYD),Ahmedabad (AMD),883,22:20,00:05,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bhubaneswar (BBI),266,08:00,09:30,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bhubaneswar (BBI),752,13:10,14:45,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bhubaneswar (BBI),922,14:10,15:50,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bhubaneswar (BBI),264,17:20,18:55,,Except Sun,19-Feb-18,26-Feb-18
+Hyderabad (HYD),Bhubaneswar (BBI),264,17:20,18:55,,Every Sun,25-Feb-18,18-Mar-18
+Hyderabad (HYD),Bhubaneswar (BBI),264,17:20,18:55,,Except Sun,27-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),146,04:55,06:20,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),413,07:15,08:15,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),151,08:35,09:45,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),827,10:55,12:05,,Every Tue,20-Feb-18,20-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),827,11:15,12:30,,Except Tue,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),527,11:50,13:10,,Except Tue,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),6417,13:50,15:00,,Except Tue,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),6417,13:55,15:05,,Every Tue,20-Feb-18,20-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),739,15:10,16:20,,Except Thu,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),187,18:35,19:45,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),357,19:05,20:20,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),6505,20:30,21:45,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),265,21:35,22:45,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),511,22:35,23:50,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Bengaluru (BLR),483,23:20,00:40,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Mumbai (BOM),428,04:00,05:30,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Mumbai (BOM),235,05:35,07:10,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Mumbai (BOM),247,06:45,08:20,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Mumbai (BOM),608,09:50,11:25,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Mumbai (BOM),342,12:10,13:45,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Mumbai (BOM),809,14:45,16:20,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Mumbai (BOM),983,17:00,18:35,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Mumbai (BOM),231,19:00,20:40,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Mumbai (BOM),263,23:25,01:00,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Kolkata (CCU),353,06:15,08:20,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Kolkata (CCU),599,08:55,11:00,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Kolkata (CCU),269,11:10,13:30,,Except Sun,19-Feb-18,26-Feb-18
+Hyderabad (HYD),Kolkata (CCU),551,15:15,17:10,,Daily,01-Mar-18,24-Mar-18
+Hyderabad (HYD),Kolkata (CCU),6927,18:15,20:25,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Kolkata (CCU),6246,21:40,23:55,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Kolkata (CCU),539,22:20,00:25,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Coimbatore (CJB),744,09:25,10:45,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Coimbatore (CJB),776,20:55,22:15,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Kochi (COK),261,05:20,07:00,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Kochi (COK),683,10:40,12:10,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Kochi (COK),304,12:00,13:35,,Every Tue,20-Feb-18,20-Mar-18
+Hyderabad (HYD),Kochi (COK),304,14:30,16:10,,Except Tue,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Dehradun (DED),269,11:10,13:40,,Every Sun,04-Mar-18,18-Mar-18
+Hyderabad (HYD),Delhi (DEL),308,04:35,06:55,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Delhi (DEL),738,05:25,07:45,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Delhi (DEL),846,07:35,10:00,,Except Thu,19-Feb-18,25-Feb-18
+Hyderabad (HYD),Delhi (DEL),846,07:35,10:00,,Every Thu,22-Feb-18,22-Feb-18
+Hyderabad (HYD),Delhi (DEL),846,07:35,10:00,,Except Fri,26-Feb-18,04-Mar-18
+Hyderabad (HYD),Delhi (DEL),846,07:35,10:00,,"Every Wed, Fri",02-Mar-18,07-Mar-18
+Hyderabad (HYD),Delhi (DEL),846,07:35,10:00,,Except Wed,05-Mar-18,11-Mar-18
+Hyderabad (HYD),Delhi (DEL),846,07:35,10:00,,Except Thu,12-Mar-18,24-Mar-18
+Hyderabad (HYD),Delhi (DEL),846,07:35,10:00,,Every Thu,15-Mar-18,22-Mar-18
+Hyderabad (HYD),Delhi (DEL),6966,09:55,12:35,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Delhi (DEL),845,11:35,13:55,,Daily,19-Feb-18,26-Feb-18
+Hyderabad (HYD),Delhi (DEL),845,11:50,14:10,,Daily,27-Feb-18,24-Mar-18
+Hyderabad (HYD),Delhi (DEL),6468,14:50,17:15,,Daily,19-Feb-18,28-Feb-18
+Hyderabad (HYD),Delhi (DEL),6468,14:50,16:55,,Daily,01-Mar-18,24-Mar-18
+Hyderabad (HYD),Delhi (DEL),6685,16:00,18:20,,Daily,19-Feb-18,28-Feb-18
+Hyderabad (HYD),Delhi (DEL),6685,16:00,18:30,,Daily,01-Mar-18,24-Mar-18
+Hyderabad (HYD),Delhi (DEL),302,18:10,20:35,,Every Sat,24-Feb-18,24-Mar-18
+Hyderabad (HYD),Delhi (DEL),302,18:15,20:35,,Except Sat,19-Feb-18,23-Mar-18
+Hyderabad (HYD),Delhi (DEL),684,19:30,21:55,,Except Thu,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Delhi (DEL),564,21:05,23:30,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Delhi (DEL),766,23:30,01:50,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Doha (DOH),1713,06:45,08:45,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Dubai (DXB),26,14:20,16:55,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Guwahati (GAU),186,09:20,11:45,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Goa (GOI),743,05:40,07:05,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Goa (GOI),905,12:50,14:15,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Goa (GOI),6913,21:00,22:20,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Indore (IDR),416,04:55,06:30,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Indore (IDR),587,18:05,19:30,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Chandigarh (IXC),269,11:10,13:45,,Except Sun,27-Feb-18,24-Mar-18
+Hyderabad (HYD),Mangalore (IXE),7101,07:05,09:10,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Ranchi (IXR),844,09:30,11:30,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Jaipur (JAI),269,11:10,13:25,,Every Sun,25-Feb-18,25-Feb-18
+Hyderabad (HYD),Jaipur (JAI),913,11:20,13:05,,Daily,19-Feb-18,28-Feb-18
+Hyderabad (HYD),Jaipur (JAI),638,19:30,21:30,,Daily,19-Feb-18,28-Feb-18
+Hyderabad (HYD),Jaipur (JAI),638,19:30,21:40,,Daily,01-Mar-18,24-Mar-18
+Hyderabad (HYD),Lucknow (LKO),732,06:20,08:20,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Lucknow (LKO),866,16:10,18:15,,Daily,19-Feb-18,28-Feb-18
+Hyderabad (HYD),Lucknow (LKO),866,16:10,18:15,,Daily,01-Mar-18,24-Mar-18
+Hyderabad (HYD),Chennai (MAA),872,04:50,06:10,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Chennai (MAA),188,06:35,07:50,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Chennai (MAA),791,08:35,09:55,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Chennai (MAA),311,10:05,11:10,,Except Sat,19-Feb-18,23-Mar-18
+Hyderabad (HYD),Chennai (MAA),706,14:40,15:55,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Chennai (MAA),311,14:45,15:55,,Every Sat,24-Feb-18,24-Mar-18
+Hyderabad (HYD),Chennai (MAA),381,16:35,17:50,,Except Tue,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Chennai (MAA),381,16:45,18:00,,Every Tue,20-Feb-18,20-Mar-18
+Hyderabad (HYD),Chennai (MAA),274,17:25,18:45,,Daily,19-Feb-18,26-Feb-18
+Hyderabad (HYD),Chennai (MAA),274,17:25,18:45,,Daily,27-Feb-18,24-Mar-18
+Hyderabad (HYD),Chennai (MAA),3174,19:15,20:30,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Chennai (MAA),121,22:50,00:05,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Nagpur (NAG),7102,16:30,18:20,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Pune (PNQ),241,02:30,03:50,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Pune (PNQ),496,14:30,15:45,,Except Sat,19-Feb-18,23-Mar-18
+Hyderabad (HYD),Pune (PNQ),118,22:05,23:25,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Rajahmundry (RJA),7118,07:00,08:20,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Rajahmundry (RJA),7123,14:35,15:50,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Raipur (RPR),384,07:45,09:00,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Raipur (RPR),334,10:30,11:45,,Except Tue,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Raipur (RPR),916,11:30,12:45,,Daily,01-Mar-18,24-Mar-18
+Hyderabad (HYD),Raipur (RPR),466,17:25,18:45,,Every Tue,20-Feb-18,20-Mar-18
+Hyderabad (HYD),Raipur (RPR),466,17:50,19:00,,Except Tue,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Sharjah (SHJ),1405,02:10,04:20,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Tirupati (TIR),7105,06:25,07:50,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Tirupati (TIR),7112,12:40,14:05,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Tirupati (TIR),7116,19:10,20:35,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Thiruvananthapuram (TRV),527,12:15,14:00,,Every Tue,20-Feb-18,20-Mar-18
+Hyderabad (HYD),Thiruvananthapuram (TRV),383,18:20,19:55,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Vijayawada (VGA),7201,06:30,07:30,,Daily,02-Mar-18,24-Mar-18
+Hyderabad (HYD),Vijayawada (VGA),7205,13:30,14:40,,Daily,02-Mar-18,24-Mar-18
+Hyderabad (HYD),Vijayawada (VGA),7211,19:55,20:50,,Daily,02-Mar-18,24-Mar-18
+Hyderabad (HYD),Varanasi (VNS),915,05:45,08:10,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Varanasi (VNS),6361,11:45,13:45,,Daily,01-Mar-18,24-Mar-18
+Hyderabad (HYD),Varanasi (VNS),624,15:40,17:50,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Visakhapatnam (VTZ),6211,06:45,08:00,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Visakhapatnam (VTZ),879,10:35,11:40,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Visakhapatnam (VTZ),366,11:15,12:25,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Visakhapatnam (VTZ),611,16:50,18:00,,Daily,19-Feb-18,24-Mar-18
+Hyderabad (HYD),Visakhapatnam (VTZ),773,17:30,18:40,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Bengaluru (BLR),758,12:40,14:50,,"Except Tue, Sun",01-Mar-18,24-Mar-18
+Indore (IDR),Bengaluru (BLR),758,12:50,15:10,,Every Tue,06-Mar-18,20-Mar-18
+Indore (IDR),Bengaluru (BLR),893,17:15,19:15,,Except Tue,01-Mar-18,24-Mar-18
+Indore (IDR),Bengaluru (BLR),893,18:30,20:35,,Every Tue,06-Mar-18,20-Mar-18
+Indore (IDR),Bengaluru (BLR),708,19:10,21:05,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Mumbai (BOM),655,07:25,08:45,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Mumbai (BOM),3904,13:00,14:20,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Mumbai (BOM),403,13:35,15:00,,Daily,01-Mar-18,24-Mar-18
+Indore (IDR),Mumbai (BOM),403,13:55,15:20,,Every Sun,25-Feb-18,25-Feb-18
+Indore (IDR),Mumbai (BOM),587,20:00,21:20,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Delhi (DEL),5013,07:00,08:25,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Delhi (DEL),509,09:45,11:15,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Delhi (DEL),5409,16:55,18:30,,Daily,19-Feb-18,28-Feb-18
+Indore (IDR),Delhi (DEL),5409,16:55,18:20,,Daily,01-Mar-18,24-Mar-18
+Indore (IDR),Delhi (DEL),867,21:20,23:20,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Goa (GOI),245,10:40,12:30,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Hyderabad (HYD),496,12:30,13:55,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Hyderabad (HYD),648,21:30,22:50,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Chennai (MAA),145,19:50,22:05,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Nagpur (NAG),436,18:55,19:55,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Raipur (RPR),811,07:40,09:05,,Daily,19-Feb-18,24-Mar-18
+Indore (IDR),Raipur (RPR),252,15:20,16:35,,Daily,19-Feb-18,24-Mar-18
+Imphal (IMF),Kolkata (CCU),202,10:50,12:20,,Daily,19-Feb-18,28-Feb-18
+Imphal (IMF),Kolkata (CCU),202,10:50,12:20,,Daily,01-Mar-18,24-Mar-18
+Imphal (IMF),Kolkata (CCU),358,14:15,15:40,,"Every Mon, Thu, Sat",19-Feb-18,24-Mar-18
+Imphal (IMF),Kolkata (CCU),875,15:20,16:40,,Daily,19-Feb-18,24-Mar-18
+Imphal (IMF),Guwahati (GAU),687,09:45,10:35,,Daily,19-Feb-18,24-Mar-18
+Imphal (IMF),Guwahati (GAU),3906,12:10,12:55,,Daily,19-Feb-18,24-Mar-18
+Imphal (IMF),Guwahati (GAU),187,13:45,14:30,,Daily,19-Feb-18,24-Mar-18
+Imphal (IMF),Agartala (IXA),6114,13:25,14:15,,"Except Mon, Thu, Sat",20-Feb-18,23-Mar-18
+Agartala (IXA),Kolkata (CCU),833,09:00,10:00,,Daily,19-Feb-18,24-Mar-18
+Agartala (IXA),Kolkata (CCU),6488,10:15,11:15,,Daily,19-Feb-18,24-Mar-18
+Agartala (IXA),Kolkata (CCU),275,12:15,13:20,,Daily,19-Feb-18,24-Mar-18
+Agartala (IXA),Kolkata (CCU),6114,14:45,15:40,,"Except Mon, Thu, Sat",20-Feb-18,23-Mar-18
+Agartala (IXA),Kolkata (CCU),294,15:15,16:25,,Daily,19-Feb-18,24-Mar-18
+Agartala (IXA),Kolkata (CCU),373,17:40,18:45,,Daily,19-Feb-18,24-Mar-18
+Agartala (IXA),Kolkata (CCU),277,19:25,20:25,,Daily,19-Feb-18,24-Mar-18
+Agartala (IXA),Guwahati (GAU),316,16:00,17:00,,Daily,19-Feb-18,24-Mar-18
+Agartala (IXA),Imphal (IMF),358,12:55,13:45,,"Every Mon, Thu, Sat",19-Feb-18,24-Mar-18
+Agartala (IXA),Chennai (MAA),438,12:35,15:30,,Daily,19-Feb-18,24-Mar-18
+Bagdogra (IXB),Kolkata (CCU),958,12:45,13:55,,Daily,19-Feb-18,24-Mar-18
+Bagdogra (IXB),Kolkata (CCU),6132,15:00,16:00,,Daily,19-Feb-18,24-Mar-18
+Bagdogra (IXB),Kolkata (CCU),534,16:35,17:45,,Daily,19-Feb-18,24-Mar-18
+Bagdogra (IXB),Delhi (DEL),3646,12:35,15:00,,Daily,19-Feb-18,24-Mar-18
+Bagdogra (IXB),Delhi (DEL),894,18:25,20:50,,Daily,19-Feb-18,24-Mar-18
+Bagdogra (IXB),Guwahati (GAU),433,15:30,16:25,,Daily,19-Feb-18,24-Mar-18
+Chandigarh (IXC),Bengaluru (BLR),491,08:15,11:20,,Every Tue,27-Feb-18,20-Mar-18
+Chandigarh (IXC),Bengaluru (BLR),491,10:40,13:45,,"Except Tue, Sun",28-Feb-18,24-Mar-18
+Chandigarh (IXC),Mumbai (BOM),264,12:15,14:45,,Except Sun,27-Feb-18,24-Mar-18
+Chandigarh (IXC),Mumbai (BOM),463,14:35,17:05,,Except Sun,27-Feb-18,24-Mar-18
+Chandigarh (IXC),Delhi (DEL),455,08:00,09:00,,Except Sun,27-Feb-18,24-Mar-18
+Chandigarh (IXC),Delhi (DEL),842,12:05,13:25,,Except Sun,27-Feb-18,24-Mar-18
+Chandigarh (IXC),Dubai (DXB),55,15:40,18:20,,Except Sun,27-Feb-18,24-Mar-18
+Chandigarh (IXC),Hyderabad (HYD),274,14:15,16:50,,Except Sun,27-Feb-18,24-Mar-18
+Mangalore (IXE),Bengaluru (BLR),897,07:00,08:00,,Except Tue,19-Feb-18,24-Mar-18
+Mangalore (IXE),Bengaluru (BLR),178,16:15,17:10,,Except Tue,19-Feb-18,24-Mar-18
+Mangalore (IXE),Bengaluru (BLR),178,16:35,17:35,,Every Tue,20-Feb-18,20-Mar-18
+Mangalore (IXE),Bengaluru (BLR),877,21:50,22:50,,Daily,19-Feb-18,24-Mar-18
+Mangalore (IXE),Mumbai (BOM),295,12:05,14:05,,Except Tue,19-Feb-18,24-Mar-18
+Mangalore (IXE),Mumbai (BOM),295,16:05,18:05,,Every Tue,20-Feb-18,20-Mar-18
+Mangalore (IXE),Mumbai (BOM),459,18:40,20:30,,Daily,19-Feb-18,24-Mar-18
+Mangalore (IXE),Hyderabad (HYD),7102,14:05,15:55,,Daily,19-Feb-18,24-Mar-18
+Mangalore (IXE),Chennai (MAA),7101,09:30,11:25,,Daily,19-Feb-18,24-Mar-18
+Jammu (IXJ),Amritsar (ATQ),637,15:20,16:20,,Daily,19-Feb-18,24-Mar-18
+Jammu (IXJ),Delhi (DEL),921,11:45,13:15,,Daily,19-Feb-18,24-Mar-18
+Jammu (IXJ),Delhi (DEL),653,13:35,15:05,,Daily,19-Feb-18,24-Mar-18
+Jammu (IXJ),Delhi (DEL),535,16:10,17:35,,Daily,19-Feb-18,24-Mar-18
+Jammu (IXJ),Jaipur (JAI),914,15:30,17:05,,Daily,19-Feb-18,28-Feb-18
+Jammu (IXJ),Srinagar (SXR),576,09:15,09:55,,Daily,19-Feb-18,24-Mar-18
+Jammu (IXJ),Srinagar (SXR),554,09:35,10:20,,Daily,19-Feb-18,24-Mar-18
+Jammu (IXJ),Srinagar (SXR),559,14:15,15:00,,Daily,19-Feb-18,24-Mar-18
+Madurai (IXM),Bengaluru (BLR),909,21:15,22:20,,Daily,19-Feb-18,24-Mar-18
+Madurai (IXM),Chennai (MAA),141,10:50,11:55,,Daily,19-Feb-18,24-Mar-18
+Madurai (IXM),Chennai (MAA),698,13:30,14:35,,Daily,19-Feb-18,24-Mar-18
+Madurai (IXM),Chennai (MAA),6385,20:20,21:25,,Except Tue,19-Feb-18,24-Mar-18
+Madurai (IXM),Chennai (MAA),6385,20:30,21:35,,Every Tue,20-Feb-18,20-Mar-18
+Ranchi (IXR),Bengaluru (BLR),485,16:05,18:30,,Daily,19-Feb-18,24-Mar-18
+Ranchi (IXR),Bengaluru (BLR),997,19:20,21:45,,Except Tue,19-Feb-18,24-Mar-18
+Ranchi (IXR),Bengaluru (BLR),997,19:20,21:55,,Every Tue,20-Feb-18,20-Mar-18
+Ranchi (IXR),Mumbai (BOM),787,16:45,19:15,,Daily,19-Feb-18,24-Mar-18
+Ranchi (IXR),Kolkata (CCU),822,09:40,10:45,,Daily,19-Feb-18,24-Mar-18
+Ranchi (IXR),Kolkata (CCU),994,13:10,14:15,,Daily,19-Feb-18,24-Mar-18
+Ranchi (IXR),Delhi (DEL),398,09:35,11:40,,Daily,19-Feb-18,24-Mar-18
+Ranchi (IXR),Delhi (DEL),436,14:15,16:20,,Daily,19-Feb-18,24-Mar-18
+Ranchi (IXR),Delhi (DEL),6184,20:25,22:30,,Daily,19-Feb-18,24-Mar-18
+Ranchi (IXR),Hyderabad (HYD),866,12:00,14:00,,Except Tue,19-Feb-18,28-Feb-18
+Ranchi (IXR),Hyderabad (HYD),866,12:00,13:50,,Every Tue,20-Feb-18,27-Feb-18
+Ranchi (IXR),Hyderabad (HYD),866,12:00,14:00,,Except Tue,01-Mar-18,24-Mar-18
+Ranchi (IXR),Hyderabad (HYD),866,12:00,13:50,,Every Tue,06-Mar-18,20-Mar-18
+Ranchi (IXR),Patna (PAT),6325,17:55,18:45,,Daily,19-Feb-18,24-Mar-18
+Port Blair (IXZ),Kolkata (CCU),973,09:30,12:00,,Daily,19-Feb-18,24-Mar-18
+Port Blair (IXZ),Kolkata (CCU),6616,10:20,12:35,,Daily,19-Feb-18,24-Mar-18
+Port Blair (IXZ),Chennai (MAA),624,11:10,13:20,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Ahmedabad (AMD),238,08:00,09:25,,Daily,19-Feb-18,04-Mar-18
+Jaipur (JAI),Ahmedabad (AMD),238,08:00,09:25,,Daily,05-Mar-18,24-Mar-18
+Jaipur (JAI),Bengaluru (BLR),169,04:00,06:30,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Bengaluru (BLR),642,08:40,11:30,,Every Sun,04-Mar-18,04-Mar-18
+Jaipur (JAI),Bengaluru (BLR),642,09:00,11:30,,Except Tue,19-Feb-18,03-Mar-18
+Jaipur (JAI),Bengaluru (BLR),642,09:00,11:35,,Every Tue,20-Feb-18,20-Mar-18
+Jaipur (JAI),Bengaluru (BLR),642,09:00,11:30,,Except Tue,05-Mar-18,24-Mar-18
+Jaipur (JAI),Bengaluru (BLR),556,20:15,22:45,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Mumbai (BOM),218,05:10,07:00,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Mumbai (BOM),965,09:10,11:15,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Mumbai (BOM),264,12:00,14:20,,Except Sun,19-Feb-18,26-Feb-18
+Jaipur (JAI),Mumbai (BOM),394,17:25,19:20,,Daily,19-Feb-18,28-Feb-18
+Jaipur (JAI),Mumbai (BOM),394,18:35,20:30,,Daily,01-Mar-18,24-Mar-18
+Jaipur (JAI),Kolkata (CCU),207,07:50,10:00,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Kolkata (CCU),237,21:00,23:20,,Daily,19-Feb-18,28-Feb-18
+Jaipur (JAI),Kolkata (CCU),237,21:25,23:50,,Daily,01-Mar-18,24-Mar-18
+Jaipur (JAI),Kolkata (CCU),175,22:00,00:10,,Daily,19-Feb-18,28-Feb-18
+Jaipur (JAI),Kolkata (CCU),175,22:30,00:30,,Daily,01-Mar-18,24-Mar-18
+Jaipur (JAI),Delhi (DEL),6606,06:00,06:55,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Delhi (DEL),203,10:15,11:40,,Daily,01-Mar-18,24-Mar-18
+Jaipur (JAI),Delhi (DEL),203,10:45,11:50,,Daily,19-Feb-18,28-Feb-18
+Jaipur (JAI),Delhi (DEL),3813,19:35,20:45,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Hyderabad (HYD),6151,06:05,08:05,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Hyderabad (HYD),274,14:05,16:05,,Every Sun,25-Feb-18,25-Feb-18
+Jaipur (JAI),Hyderabad (HYD),914,17:35,19:35,,Daily,19-Feb-18,28-Feb-18
+Jaipur (JAI),Jammu (IXJ),913,13:35,15:00,,Daily,19-Feb-18,28-Feb-18
+Jaipur (JAI),Chennai (MAA),569,14:10,16:45,,Daily,19-Feb-18,28-Feb-18
+Jaipur (JAI),Chennai (MAA),442,20:05,22:50,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Chennai (MAA),736,22:20,01:00,,Daily,19-Feb-18,24-Mar-18
+Jaipur (JAI),Pune (PNQ),116,22:10,23:55,,Daily,19-Feb-18,24-Mar-18
+Kathmandu (KTM),Delhi (DEL),32,14:45,16:05,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Ahmedabad (AMD),856,20:55,23:00,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Bengaluru (BLR),541,06:00,08:40,,Daily,19-Feb-18,01-Mar-18
+Lucknow (LKO),Bengaluru (BLR),541,06:05,08:40,,Daily,02-Mar-18,24-Mar-18
+Lucknow (LKO),Bengaluru (BLR),904,08:25,11:25,,Except Tue,19-Feb-18,24-Mar-18
+Lucknow (LKO),Bengaluru (BLR),904,13:30,16:10,,Every Tue,20-Feb-18,20-Mar-18
+Lucknow (LKO),Bengaluru (BLR),226,14:10,16:50,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Mumbai (BOM),685,07:40,10:05,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Mumbai (BOM),339,12:30,14:55,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Mumbai (BOM),463,14:45,17:05,,Except Sun,19-Feb-18,26-Feb-18
+Lucknow (LKO),Mumbai (BOM),463,14:50,17:05,,Every Sun,25-Feb-18,18-Mar-18
+Lucknow (LKO),Kolkata (CCU),244,11:40,13:30,,Daily,01-Mar-18,24-Mar-18
+Lucknow (LKO),Kolkata (CCU),244,12:20,14:15,,"Except Thu, Fri",24-Feb-18,28-Feb-18
+Lucknow (LKO),Kolkata (CCU),627,12:20,14:15,,"Except Sat, Sun",19-Feb-18,23-Feb-18
+Lucknow (LKO),Kolkata (CCU),866,18:50,21:00,,Daily,01-Mar-18,24-Mar-18
+Lucknow (LKO),Kolkata (CCU),866,19:05,21:00,,Daily,19-Feb-18,28-Feb-18
+Lucknow (LKO),Dehradun (DED),577,12:40,13:40,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Delhi (DEL),769,06:10,07:25,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Delhi (DEL),733,08:50,10:20,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Delhi (DEL),423,10:35,11:55,,Except Tue,01-Mar-18,24-Mar-18
+Lucknow (LKO),Delhi (DEL),423,10:35,11:50,,Every Tue,06-Mar-18,20-Mar-18
+Lucknow (LKO),Delhi (DEL),423,10:45,11:55,,Daily,19-Feb-18,28-Feb-18
+Lucknow (LKO),Delhi (DEL),306,15:10,16:25,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Delhi (DEL),162,17:50,19:20,,Daily,01-Mar-18,24-Mar-18
+Lucknow (LKO),Delhi (DEL),633,17:55,18:55,,Daily,01-Mar-18,24-Mar-18
+Lucknow (LKO),Delhi (DEL),185,18:25,19:40,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Delhi (DEL),447,19:55,21:20,,Daily,01-Mar-18,24-Mar-18
+Lucknow (LKO),Delhi (DEL),633,21:50,23:05,,Daily,19-Feb-18,28-Feb-18
+Lucknow (LKO),Delhi (DEL),447,22:25,23:40,,Daily,19-Feb-18,28-Feb-18
+Lucknow (LKO),Goa (GOI),161,12:30,14:55,,Daily,01-Mar-18,24-Mar-18
+Lucknow (LKO),Hyderabad (HYD),844,06:50,09:00,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Hyderabad (HYD),278,20:50,22:45,,Daily,01-Mar-18,24-Mar-18
+Lucknow (LKO),Hyderabad (HYD),278,21:30,23:30,,Daily,19-Feb-18,28-Feb-18
+Lucknow (LKO),Jammu (IXJ),576,07:10,08:45,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Chennai (MAA),569,13:50,16:45,,Daily,01-Mar-18,24-Mar-18
+Lucknow (LKO),Patna (PAT),634,08:10,09:15,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Patna (PAT),342,17:10,18:10,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Raipur (RPR),588,16:10,17:40,,Daily,19-Feb-18,24-Mar-18
+Lucknow (LKO),Sharjah (SHJ),1407,16:15,19:05,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Ahmedabad (AMD),244,05:30,08:00,,Daily,01-Mar-18,24-Mar-18
+Chennai (MAA),Ahmedabad (AMD),244,06:40,09:10,,Every Sun,25-Feb-18,25-Feb-18
+Chennai (MAA),Ahmedabad (AMD),244,07:05,09:30,,"Except Thu, Fri, Sun",24-Feb-18,28-Feb-18
+Chennai (MAA),Ahmedabad (AMD),627,07:05,09:30,,"Except Sat, Sun",19-Feb-18,23-Feb-18
+Chennai (MAA),Ahmedabad (AMD),237,16:10,18:35,,Daily,19-Feb-18,28-Feb-18
+Chennai (MAA),Ahmedabad (AMD),237,16:25,19:15,,Daily,01-Mar-18,24-Mar-18
+Chennai (MAA),Bhubaneswar (BBI),141,12:30,14:20,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Bhubaneswar (BBI),193,20:55,22:40,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Bengaluru (BLR),271,09:15,10:15,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Bengaluru (BLR),238,12:55,13:55,,Except Tue,19-Feb-18,24-Mar-18
+Chennai (MAA),Bengaluru (BLR),119,13:55,14:55,,Except Tue,19-Feb-18,24-Mar-18
+Chennai (MAA),Bengaluru (BLR),438,16:00,16:55,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Bengaluru (BLR),847,16:55,17:55,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Bengaluru (BLR),232,21:15,22:15,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Mumbai (BOM),654,05:20,07:20,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Mumbai (BOM),495,06:45,08:45,,Except Sun,19-Feb-18,26-Feb-18
+Chennai (MAA),Mumbai (BOM),495,06:45,08:45,,Every Sun,25-Feb-18,18-Mar-18
+Chennai (MAA),Mumbai (BOM),495,06:45,08:45,,Except Sun,27-Feb-18,24-Mar-18
+Chennai (MAA),Mumbai (BOM),782,08:50,10:50,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Mumbai (BOM),621,12:20,14:20,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Mumbai (BOM),998,17:15,19:15,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Mumbai (BOM),387,22:35,00:35,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Kolkata (CCU),987,05:15,07:35,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Kolkata (CCU),797,07:55,10:20,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Kolkata (CCU),892,11:35,14:00,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Kolkata (CCU),633,11:55,14:00,,Daily,01-Mar-18,24-Mar-18
+Chennai (MAA),Kolkata (CCU),292,13:10,15:20,,Daily,19-Feb-18,28-Feb-18
+Chennai (MAA),Kolkata (CCU),997,14:40,17:20,,Every Tue,20-Feb-18,20-Mar-18
+Chennai (MAA),Kolkata (CCU),183,14:55,17:25,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Kolkata (CCU),923,19:35,22:10,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Kolkata (CCU),6385,22:00,00:15,,Except Tue,19-Feb-18,24-Mar-18
+Chennai (MAA),Kolkata (CCU),6385,22:10,00:25,,Every Tue,20-Feb-18,20-Mar-18
+Chennai (MAA),Coimbatore (CJB),101,06:20,07:25,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Coimbatore (CJB),985,09:45,10:50,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Coimbatore (CJB),238,12:55,14:00,,Every Tue,20-Feb-18,20-Mar-18
+Chennai (MAA),Coimbatore (CJB),881,14:10,15:15,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Coimbatore (CJB),275,17:25,18:30,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Colombo (CMB),1211,04:00,05:30,,Every Wed,21-Feb-18,21-Mar-18
+Chennai (MAA),Colombo (CMB),1201,06:55,08:15,,Except Wed,19-Feb-18,24-Mar-18
+Chennai (MAA),Colombo (CMB),1203,10:05,11:30,,Every Wed,21-Feb-18,21-Mar-18
+Chennai (MAA),Colombo (CMB),1203,12:00,13:25,,Except Wed,19-Feb-18,24-Mar-18
+Chennai (MAA),Kochi (COK),298,06:10,07:25,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Kochi (COK),563,11:50,13:00,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Kochi (COK),274,19:20,20:35,,Daily,19-Feb-18,26-Feb-18
+Chennai (MAA),Kochi (COK),274,19:20,20:35,,Daily,27-Feb-18,24-Mar-18
+Chennai (MAA),Delhi (DEL),6976,04:55,07:50,,Daily,01-Mar-18,24-Mar-18
+Chennai (MAA),Delhi (DEL),652,05:00,07:50,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Delhi (DEL),976,06:30,09:20,,Daily,19-Feb-18,28-Feb-18
+Chennai (MAA),Delhi (DEL),695,08:30,11:25,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Delhi (DEL),487,10:40,13:35,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Delhi (DEL),698,15:15,18:05,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Delhi (DEL),907,17:15,20:05,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Delhi (DEL),3752,18:45,21:45,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Delhi (DEL),704,22:35,01:25,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Doha (DOH),1707,00:30,02:45,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Dubai (DXB),65,06:45,09:45,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Guwahati (GAU),112,05:05,08:00,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Guwahati (GAU),571,15:15,17:45,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Goa (GOI),128,04:40,06:20,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Hyderabad (HYD),384,06:00,07:10,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Hyderabad (HYD),269,09:25,10:35,,Daily,19-Feb-18,26-Feb-18
+Chennai (MAA),Hyderabad (HYD),269,09:25,10:35,,Daily,27-Feb-18,24-Mar-18
+Chennai (MAA),Hyderabad (HYD),905,11:10,12:20,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Hyderabad (HYD),315,12:50,14:05,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Hyderabad (HYD),624,13:55,15:05,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Hyderabad (HYD),302,16:00,17:10,,Except Sat,19-Feb-18,23-Mar-18
+Chennai (MAA),Hyderabad (HYD),302,16:30,17:40,,Every Sat,24-Feb-18,24-Mar-18
+Chennai (MAA),Hyderabad (HYD),3173,17:30,18:45,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Hyderabad (HYD),156,21:05,22:15,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Hyderabad (HYD),343,22:30,23:40,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Indore (IDR),143,17:00,19:20,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Agartala (IXA),196,09:10,12:05,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Mangalore (IXE),7102,11:50,13:45,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Madurai (IXM),137,09:05,10:10,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Madurai (IXM),859,11:55,13:00,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Madurai (IXM),381,18:45,19:50,,Except Tue,19-Feb-18,24-Mar-18
+Chennai (MAA),Madurai (IXM),381,18:45,20:00,,Every Tue,20-Feb-18,20-Mar-18
+Chennai (MAA),Port Blair (IXZ),188,08:25,10:40,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Jaipur (JAI),548,10:45,13:30,,Daily,19-Feb-18,28-Feb-18
+Chennai (MAA),Jaipur (JAI),755,23:30,02:20,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Lucknow (LKO),548,10:45,13:20,,Daily,01-Mar-18,24-Mar-18
+Chennai (MAA),Muscat (MCT),85,22:45,01:15,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Patna (PAT),441,08:00,10:25,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Pune (PNQ),401,03:30,05:15,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Pune (PNQ),502,08:05,09:50,,Every Sat,24-Feb-18,24-Mar-18
+Chennai (MAA),Pune (PNQ),502,08:40,10:30,,Except Sat,19-Feb-18,23-Mar-18
+Chennai (MAA),Pune (PNQ),311,11:40,13:15,,Except Sat,19-Feb-18,23-Mar-18
+Chennai (MAA),Pune (PNQ),385,22:20,00:05,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Rajahmundry (RJA),7125,17:55,19:45,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Singapore (SIN),51,05:45,12:40,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Singapore (SIN),53,22:00,04:40,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Thiruvananthapuram (TRV),327,10:45,12:05,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Thiruvananthapuram (TRV),706,16:25,17:45,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Udaipur (UDR),442,15:25,17:55,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Vijayawada (VGA),7208,16:35,17:55,,Daily,02-Mar-18,24-Mar-18
+Chennai (MAA),Visakhapatnam (VTZ),557,07:10,08:30,,Daily,19-Feb-18,24-Mar-18
+Chennai (MAA),Visakhapatnam (VTZ),882,18:00,19:25,,Daily,19-Feb-18,24-Mar-18
+Muscat (MCT),Mumbai (BOM),82,22:20,02:45,,Daily,19-Feb-18,24-Mar-18
+Muscat (MCT),Kozhikode (CCJ),1304,22:45,03:55,,Daily,19-Feb-18,24-Mar-18
+Muscat (MCT),Kochi (COK),84,02:15,07:20,,Daily,19-Feb-18,24-Mar-18
+Muscat (MCT),Chennai (MAA),86,20:55,02:25,,Daily,19-Feb-18,24-Mar-18
+Nagpur (NAG),Bengaluru (BLR),727,16:35,18:15,,Daily,19-Feb-18,24-Mar-18
+Nagpur (NAG),Bengaluru (BLR),436,20:25,22:10,,Daily,19-Feb-18,24-Mar-18
+Nagpur (NAG),Mumbai (BOM),6936,10:30,12:05,,Daily,19-Feb-18,24-Mar-18
+Nagpur (NAG),Mumbai (BOM),404,20:30,22:05,,Daily,19-Feb-18,24-Mar-18
+Nagpur (NAG),Kolkata (CCU),6135,16:55,18:45,,Except Sat,01-Mar-18,23-Mar-18
+Nagpur (NAG),Kolkata (CCU),403,18:05,19:45,,Daily,19-Feb-18,24-Mar-18
+Nagpur (NAG),Delhi (DEL),636,07:30,09:15,,Daily,19-Feb-18,24-Mar-18
+Nagpur (NAG),Delhi (DEL),134,12:55,14:45,,Daily,19-Feb-18,24-Mar-18
+Nagpur (NAG),Delhi (DEL),202,19:50,21:35,,Except Sat,19-Feb-18,28-Feb-18
+Nagpur (NAG),Delhi (DEL),6202,19:50,21:35,,Except Sat,01-Mar-18,23-Mar-18
+Nagpur (NAG),Hyderabad (HYD),7104,18:40,20:25,,Daily,19-Feb-18,24-Mar-18
+Nagpur (NAG),Indore (IDR),509,08:15,09:15,,Daily,19-Feb-18,24-Mar-18
+Nagpur (NAG),Pune (PNQ),135,12:40,13:55,,Except Sat,19-Feb-18,23-Mar-18
+Nagpur (NAG),Pune (PNQ),202,16:00,17:25,,Except Sat,01-Mar-18,23-Mar-18
+Nagpur (NAG),Pune (PNQ),221,22:00,23:15,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Bengaluru (BLR),902,09:25,11:55,,Every Tue,20-Feb-18,20-Mar-18
+Patna (PAT),Bengaluru (BLR),902,11:35,14:05,,Except Tue,19-Feb-18,24-Mar-18
+Patna (PAT),Kolkata (CCU),634,09:50,10:55,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Kolkata (CCU),708,13:35,14:40,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Kolkata (CCU),342,18:40,19:45,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Delhi (DEL),612,09:05,10:55,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Delhi (DEL),6367,10:45,12:40,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Delhi (DEL),191,14:35,16:35,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Delhi (DEL),582,16:20,18:10,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Delhi (DEL),508,17:50,19:40,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Delhi (DEL),6325,19:20,21:05,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Ranchi (IXR),485,14:50,15:35,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Ranchi (IXR),787,15:30,16:15,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Lucknow (LKO),339,11:00,12:00,,Daily,19-Feb-18,24-Mar-18
+Patna (PAT),Lucknow (LKO),633,16:25,17:25,,Daily,01-Mar-18,24-Mar-18
+Patna (PAT),Lucknow (LKO),633,20:20,21:20,,Daily,19-Feb-18,28-Feb-18
+Patna (PAT),Varanasi (VNS),441,10:55,11:55,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Ahmedabad (AMD),352,06:25,07:40,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Ahmedabad (AMD),135,14:30,15:45,,Except Sat,19-Feb-18,28-Feb-18
+Pune (PNQ),Ahmedabad (AMD),673,23:45,01:00,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Bengaluru (BLR),681,00:45,02:10,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Bengaluru (BLR),391,07:20,08:45,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Bengaluru (BLR),407,10:45,12:15,,Every Sat,24-Feb-18,24-Mar-18
+Pune (PNQ),Bengaluru (BLR),407,11:00,12:25,,"Except Tue, Sat",19-Feb-18,23-Mar-18
+Pune (PNQ),Bengaluru (BLR),758,13:05,14:45,,Every Sun,25-Feb-18,18-Mar-18
+Pune (PNQ),Bengaluru (BLR),105,17:20,18:50,,Except Sat,19-Feb-18,23-Mar-18
+Pune (PNQ),Bengaluru (BLR),103,22:20,23:45,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Bengaluru (BLR),221,23:45,01:10,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Kolkata (CCU),553,00:20,03:25,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Kolkata (CCU),523,06:05,08:45,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Kochi (COK),338,02:45,04:25,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Kochi (COK),407,11:00,12:50,,Every Tue,20-Feb-18,20-Mar-18
+Pune (PNQ),Delhi (DEL),6698,02:10,04:20,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Delhi (DEL),863,05:00,07:10,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Delhi (DEL),3571,07:30,09:40,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Delhi (DEL),148,11:40,13:50,,Except Sat,19-Feb-18,23-Mar-18
+Pune (PNQ),Delhi (DEL),528,15:30,17:40,,Every Tue,20-Feb-18,20-Mar-18
+Pune (PNQ),Delhi (DEL),528,19:00,21:10,,Except Tue,19-Feb-18,24-Mar-18
+Pune (PNQ),Delhi (DEL),402,20:30,22:40,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Delhi (DEL),672,23:30,01:40,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Hyderabad (HYD),242,04:20,05:30,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Hyderabad (HYD),587,16:15,17:30,,Except Sat,19-Feb-18,23-Mar-18
+Pune (PNQ),Hyderabad (HYD),122,23:55,01:05,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Jaipur (JAI),117,00:25,02:10,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Chennai (MAA),6406,00:40,02:25,,Daily,19-Feb-18,24-Mar-18
+Pune (PNQ),Chennai (MAA),159,05:45,07:45,,Except Sat,19-Feb-18,23-Mar-18
+Pune (PNQ),Chennai (MAA),159,05:45,07:30,,Every Sat,24-Feb-18,24-Mar-18
+Pune (PNQ),Chennai (MAA),302,13:45,15:30,,Except Sat,19-Feb-18,23-Mar-18
+Pune (PNQ),Chennai (MAA),547,22:25,00:10,,Every Sat,24-Feb-18,24-Mar-18
+Pune (PNQ),Chennai (MAA),547,22:30,00:15,,Except Sat,19-Feb-18,23-Mar-18
+Pune (PNQ),Nagpur (NAG),134,10:20,11:40,,Every Sat,24-Feb-18,24-Mar-18
+Pune (PNQ),Nagpur (NAG),134,11:05,12:25,,Except Sat,19-Feb-18,23-Mar-18
+Pune (PNQ),Nagpur (NAG),6135,14:30,15:55,,Except Sat,01-Mar-18,23-Mar-18
+Pune (PNQ),Nagpur (NAG),202,18:00,19:20,,Except Sat,19-Feb-18,28-Feb-18
+Pune (PNQ),Nagpur (NAG),6202,18:00,19:20,,Except Sat,01-Mar-18,23-Mar-18
+Rajahmundry (RJA),Bengaluru (BLR),7119,08:40,10:25,,Daily,19-Feb-18,24-Mar-18
+Rajahmundry (RJA),Hyderabad (HYD),7122,12:50,14:05,,Daily,19-Feb-18,24-Mar-18
+Rajahmundry (RJA),Hyderabad (HYD),7126,20:05,21:25,,Daily,19-Feb-18,24-Mar-18
+Rajahmundry (RJA),Chennai (MAA),7124,16:10,17:35,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Mumbai (BOM),802,11:45,13:45,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Mumbai (BOM),264,12:20,14:30,,Every Sun,25-Feb-18,18-Mar-18
+Raipur (RPR),Mumbai (BOM),804,16:55,18:45,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Kolkata (CCU),811,09:45,11:10,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Kolkata (CCU),252,17:05,18:35,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Delhi (DEL),486,09:30,11:35,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Delhi (DEL),6409,11:10,13:10,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Delhi (DEL),204,14:50,16:45,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Delhi (DEL),454,19:15,21:10,,Every Tue,20-Feb-18,20-Mar-18
+Raipur (RPR),Delhi (DEL),454,19:30,21:25,,Except Tue,19-Feb-18,24-Mar-18
+Raipur (RPR),Hyderabad (HYD),827,09:05,10:25,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Hyderabad (HYD),304,12:15,13:35,,Except Tue,19-Feb-18,24-Mar-18
+Raipur (RPR),Hyderabad (HYD),551,13:15,14:40,,Daily,01-Mar-18,24-Mar-18
+Raipur (RPR),Hyderabad (HYD),815,19:45,21:05,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Indore (IDR),245,08:35,10:00,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Indore (IDR),708,17:15,18:40,,Daily,19-Feb-18,24-Mar-18
+Raipur (RPR),Lucknow (LKO),589,18:10,20:00,,Daily,19-Feb-18,28-Feb-18
+Raipur (RPR),Lucknow (LKO),589,18:10,19:50,,Daily,01-Mar-18,24-Mar-18
+Sharjah (SHJ),Kozhikode (CCJ),1404,09:20,14:30,,Daily,19-Feb-18,24-Mar-18
+Sharjah (SHJ),Hyderabad (HYD),1406,20:05,01:05,,Daily,19-Feb-18,24-Mar-18
+Sharjah (SHJ),Lucknow (LKO),1408,05:20,10:50,,Daily,19-Feb-18,24-Mar-18
+Sharjah (SHJ),Thiruvananthapuram (TRV),1402,02:00,07:35,,Daily,19-Feb-18,24-Mar-18
+Singapore (SIN),Bengaluru (BLR),58,05:30,07:55,,Daily,19-Feb-18,24-Mar-18
+Singapore (SIN),Chennai (MAA),54,05:40,07:35,,Daily,19-Feb-18,24-Mar-18
+Singapore (SIN),Chennai (MAA),52,13:40,15:35,,Daily,19-Feb-18,24-Mar-18
+Srinagar (SXR),Amritsar (ATQ),478,14:45,15:50,,Daily,19-Feb-18,24-Mar-18
+Srinagar (SXR),Mumbai (BOM),559,15:30,18:20,,Daily,19-Feb-18,24-Mar-18
+Srinagar (SXR),Delhi (DEL),554,10:55,12:40,,Daily,19-Feb-18,24-Mar-18
+Srinagar (SXR),Delhi (DEL),694,15:05,16:45,,Daily,19-Feb-18,24-Mar-18
+Srinagar (SXR),Delhi (DEL),197,17:05,18:50,,Daily,19-Feb-18,24-Mar-18
+Srinagar (SXR),Jammu (IXJ),653,12:10,13:05,,Daily,19-Feb-18,24-Mar-18
+Srinagar (SXR),Lucknow (LKO),576,10:25,12:10,,Daily,19-Feb-18,24-Mar-18
+Tirupati (TIR),Bengaluru (BLR),7106,08:10,09:05,,Daily,19-Feb-18,24-Mar-18
+Tirupati (TIR),Bengaluru (BLR),7113,14:25,15:20,,Daily,19-Feb-18,24-Mar-18
+Tirupati (TIR),Hyderabad (HYD),7108,10:50,12:05,,Daily,19-Feb-18,24-Mar-18
+Tirupati (TIR),Hyderabad (HYD),7115,17:20,18:40,,Daily,19-Feb-18,24-Mar-18
+Tirupati (TIR),Hyderabad (HYD),7117,20:55,22:25,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Bengaluru (BLR),874,07:50,09:10,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Bengaluru (BLR),6065,10:20,11:35,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Bengaluru (BLR),279,16:05,17:20,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Bengaluru (BLR),676,17:05,18:20,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Bengaluru (BLR),445,21:50,23:05,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Mumbai (BOM),176,10:45,12:55,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Kochi (COK),837,01:00,01:45,,"Every Wed, Fri, Sun",21-Feb-18,25-Mar-18
+Thiruvananthapuram (TRV),Kochi (COK),706,18:15,19:00,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Delhi (DEL),359,02:05,05:25,,"Except Wed, Fri, Sun",20-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Delhi (DEL),5062,12:35,15:55,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Delhi (DEL),127,21:30,01:00,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Dubai (DXB),39,18:05,21:05,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Hyderabad (HYD),6361,09:30,11:10,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Chennai (MAA),315,10:55,12:15,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Chennai (MAA),343,20:30,21:50,,Daily,19-Feb-18,24-Mar-18
+Thiruvananthapuram (TRV),Sharjah (SHJ),1401,22:15,01:00,,Daily,19-Feb-18,24-Mar-18
+Udaipur (UDR),Mumbai (BOM),748,10:00,11:35,,Daily,19-Feb-18,24-Mar-18
+Udaipur (UDR),Mumbai (BOM),753,15:20,16:45,,Daily,19-Feb-18,24-Mar-18
+Udaipur (UDR),Delhi (DEL),747,14:10,15:35,,Daily,19-Feb-18,24-Mar-18
+Udaipur (UDR),Delhi (DEL),6299,19:20,20:45,,Daily,19-Feb-18,28-Feb-18
+Udaipur (UDR),Delhi (DEL),6299,21:00,22:25,,Daily,01-Mar-18,24-Mar-18
+Udaipur (UDR),Jaipur (JAI),442,18:30,19:35,,Daily,19-Feb-18,24-Mar-18
+Vijayawada (VGA),Bengaluru (BLR),7203,07:55,09:25,,Daily,02-Mar-18,24-Mar-18
+Vijayawada (VGA),Hyderabad (HYD),7202,11:55,12:55,,Daily,02-Mar-18,24-Mar-18
+Vijayawada (VGA),Hyderabad (HYD),7209,18:25,19:30,,Daily,02-Mar-18,24-Mar-18
+Vijayawada (VGA),Hyderabad (HYD),7206,21:10,22:20,,Daily,02-Mar-18,24-Mar-18
+Vijayawada (VGA),Chennai (MAA),7207,15:00,16:15,,Daily,02-Mar-18,24-Mar-18
+Varanasi (VNS),Bengaluru (BLR),6323,20:40,23:15,,Except Tue,19-Feb-18,24-Mar-18
+Varanasi (VNS),Bengaluru (BLR),6323,21:05,23:40,,Every Tue,20-Feb-18,20-Mar-18
+Varanasi (VNS),Mumbai (BOM),711,10:15,12:40,,Daily,19-Feb-18,24-Mar-18
+Varanasi (VNS),Mumbai (BOM),579,14:50,17:15,,Daily,19-Feb-18,24-Mar-18
+Varanasi (VNS),Kolkata (CCU),716,19:30,20:50,,Daily,19-Feb-18,24-Mar-18
+Varanasi (VNS),Delhi (DEL),3175,10:30,12:25,,Daily,19-Feb-18,24-Mar-18
+Varanasi (VNS),Delhi (DEL),555,14:15,16:10,,Daily,01-Mar-18,24-Mar-18
+Varanasi (VNS),Delhi (DEL),6635,18:30,20:05,,Daily,19-Feb-18,24-Mar-18
+Varanasi (VNS),Delhi (DEL),991,20:05,21:35,,Daily,19-Feb-18,28-Feb-18
+Varanasi (VNS),Delhi (DEL),991,20:50,22:40,,Daily,01-Mar-18,24-Mar-18
+Varanasi (VNS),Hyderabad (HYD),916,08:40,10:45,,Daily,19-Feb-18,24-Mar-18
+Varanasi (VNS),Hyderabad (HYD),383,15:50,17:40,,Daily,01-Mar-18,24-Mar-18
+Varanasi (VNS),Hyderabad (HYD),6913,18:20,20:20,,Daily,19-Feb-18,24-Mar-18
+Varanasi (VNS),Chennai (MAA),441,12:30,14:55,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Bhubaneswar (BBI),557,09:00,09:50,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Bengaluru (BLR),287,07:50,09:30,,Except Sun,19-Feb-18,28-Feb-18
+Visakhapatnam (VTZ),Bengaluru (BLR),287,07:50,09:30,,Every Sun,25-Feb-18,18-Mar-18
+Visakhapatnam (VTZ),Bengaluru (BLR),287,07:50,09:30,,Except Sun,01-Mar-18,24-Mar-18
+Visakhapatnam (VTZ),Bengaluru (BLR),216,19:30,21:00,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Bengaluru (BLR),647,21:10,22:45,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Kolkata (CCU),886,13:00,14:45,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Delhi (DEL),726,08:35,11:05,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Delhi (DEL),772,18:30,21:15,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Hyderabad (HYD),608,08:05,09:15,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Hyderabad (HYD),809,12:55,14:15,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Hyderabad (HYD),776,19:10,20:25,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Hyderabad (HYD),883,20:25,21:45,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Hyderabad (HYD),742,22:00,23:15,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Chennai (MAA),881,12:10,13:35,,Daily,19-Feb-18,24-Mar-18
+Visakhapatnam (VTZ),Chennai (MAA),512,14:55,16:20,,Daily,19-Feb-18,24-Mar-18

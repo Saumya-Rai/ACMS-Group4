@@ -53,7 +53,7 @@ for flight in flightList:
             rowList.append(flightDict)
              
 flightDetails1= pd.DataFrame(rowList)
-flightDetails1.to_csv('Data/FlightInfo.csv',  sep=',')
+flightDetails1.to_csv('Data/FlightInformation.csv',  sep=',')
 
 
 

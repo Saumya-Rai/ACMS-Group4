@@ -1,74 +1,59 @@
-from pyflightdata import FlightData
-import flightradar24
 import pandas as pd
-import config
-fr=flightradar24.Api()
+import json
+import re
+from urllib.request import Request,urlopen
+import math
+import time
 
-f=FlightData()
-f.login(config.username,config.password)
 
-
-df1 = pd.read_csv('Data/flightNumbers.csv')
+df1 = pd.read_csv('Data/flightNumbers1.csv')
 fList = df1['6E Flight Number'].tolist()
-
-
 flightList = []
 for flight in fList:
     flightList.append("6E"+ str(flight))
-
+epoch_time = 1490985000
+currentTime = math.floor(time.time()) 
 flightList = list(set(flightList))
-print(len(flightList))
 rowList=[]
-"""
-I had to make a list of flights to skip because, flightradar24 has an error on their side,
-which keeps loading infinitely, thus preventing me from going to the next flight.
-"""
-skipFlights = ["6E231"]
-
 for flight in flightList:
+    eTime = epoch_time
     print(flight)
-    if flight in skipFlights:
-        continue
-    info = f.get_history_by_flight_number(flight)
-    while len(info) is 0:
-        info = f.get_history_by_flight_number(flight)
-    print("length", len(info) ,flight)
-    for i in range(len(info)):
-        
-        print(i)
-        print(flight)
-        r1 = info[i]['identification']
-        r2 = info[i]['airline']
-        r3 = info[i]['time']
-        fnum = r1['number']['default']
-        callsign= r1['callsign']
-        status = info[i]['status']['live']
-        model = info[i]['aircraft']['model']['code']
-        nameAirline = r2['name']
-        code = r2['code']['icao']
-        try:
-            origin = info[i]['airport']['origin']['position']['region']['city']
-        except Exception as identifier:
-            origin = "Not Defined"
-            pass
-        try:
-            destination = info[i]['airport']['destination']['position']['region']['city']
-        except Exception as identifier:
-            destination = "Not Defined"
-            pass
-        #print(flight)
-        scheduledDep = r3['scheduled']['departure']
-        scheduledArr = r3['scheduled']['arrival']
-        realDep = r3['real']['departure']
-        realArr = r3['real']['arrival']
-        dict1={'flight number':fnum, 'callsign':callsign, 'status':status, 'airline': nameAirline,
-               'code': code, 'origin':origin,'destination': destination,  'scheduled departure':scheduledDep,
-               'scheduled arrival': scheduledArr, 'real departure':realDep, 'real arrival': realArr }
-        rowList.append(dict1)
-print(rowList)
-flightDetails= pd.DataFrame(rowList)
-print(flightDetails)
-flightDetails.to_csv('Data/FlightDetails.csv')
+    while (eTime <= currentTime):
+
+        url = "https://www.radarbox24.com/data/load-more?search=fnia&filter="+flight+"&term=&time="+str(eTime)+"&order=%3E"
+        req = Request(url, headers={'User-Agent':'Mozilla/5.0'})
+        data = json.loads(urlopen(req).read().decode())
+        eTime = data[1]['date']
+        for flightData in range(len(data)):
+            flightCode = data[flightData]['fn']
+            airline = re.sub("<.*?>", "", data[flightData]['airline'])
+            callSign = re.sub("<.*?>", "", data[flightData]['act'])
+            callSign = re.sub(r'.*V', 'V', callSign)
+            callSign = callSign.replace(")","")
+            print(callSign)
+            aircraft = re.sub("<.*?>", "", data[flightData]['act'])
+            aircraft = aircraft[0:4]
+            source = re.sub("<.*?>", "", data[flightData]['aporgia'])
+            destination = re.sub("<.*?>", "", data[flightData]['apdstia'])
+            flightDate = data[flightData]['date']
+            scheduledDeparture= re.sub("<.*?>", "", data[flightData]['std'])
+            scheduledDeparture = ''.join(scheduledDeparture.split())[:-3]
+            scheduledArrival= re.sub("<.*?>", "", data[flightData]['sta'])
+            scheduledArrival = ''.join(scheduledArrival.split())[:-3]
+            actualDeparture= re.sub("<.*?>", "", data[flightData]['atd'])
+            actualDeparture = ''.join(actualDeparture.split())[:-3]
+            status = re.sub("<.*?>", "", data[flightData]['status'])
+            if status != 'Landed' and status != 'Scheduled' :
+                status = status [7:-3] 
+
+
+            flightDict={'flight number':flightCode, 'callsign':callSign, 'airline': airline,
+                 'origin':source,'destination': destination,'date' : flightDate, 'scheduled departure':scheduledDeparture,
+                 'scheduled arrival': scheduledArrival, 'actual departure':actualDeparture ,'status':status }
+            rowList.append(flightDict)
+             
+flightDetails1= pd.DataFrame(rowList)
+flightDetails1.to_csv('Data/FlightInfo.csv',  sep=',')
 
 
 

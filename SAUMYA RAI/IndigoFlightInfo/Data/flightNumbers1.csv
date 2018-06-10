@@ -1,25 +1,3 @@
 ﻿Origin,Destination,6E Flight Number,Departure (Local Time),Arrival (Local Time),Via,Days of Operations,Effective From,Effective To
 Ahmedabad (AMD),Bengaluru (BLR),823,09:05,11:20,,Daily,19-Feb-18,24-Mar-18
 Ahmedabad (AMD),Bengaluru (BLR),758,12:40,14:50,,"Except Tue, Sun",19-Feb-18,28-Feb-18
-Ahmedabad (AMD),Bengaluru (BLR),758,13:00,15:10,,Every Tue,20-Feb-18,27-Feb-18
-Ahmedabad (AMD),Bengaluru (BLR),893,17:05,19:15,,Except Tue,19-Feb-18,28-Feb-18
-Ahmedabad (AMD),Bengaluru (BLR),893,18:25,20:35,,Every Tue,20-Feb-18,27-Feb-18
-Ahmedabad (AMD),Bengaluru (BLR),735,20:10,22:25,,Daily,19-Feb-18,24-Mar-18
-Ahmedabad (AMD),Bengaluru (BLR),996,23:50,02:05,,Daily,19-Feb-18,24-Mar-18
-Ahmedabad (AMD),Mumbai (BOM),6958,05:20,06:40,,Daily,19-Feb-18,24-Mar-18
-Ahmedabad (AMD),Mumbai (BOM),3834,07:45,09:05,,Daily,19-Feb-18,24-Mar-18
-Ahmedabad (AMD),Mumbai (BOM),984,08:55,11:00,,Except Sun,01-Mar-18,24-Mar-18
-Ahmedabad (AMD),Mumbai (BOM),984,08:55,11:05,,Every Sun,04-Mar-18,18-Mar-18
-Ahmedabad (AMD),Mumbai (BOM),214,09:20,10:40,,Daily,19-Feb-18,24-Mar-18
-Ahmedabad (AMD),Mumbai (BOM),984,09:35,11:05,,Every Sun,25-Feb-18,25-Feb-18
-Ahmedabad (AMD),Mumbai (BOM),984,10:25,11:45,,Except Sun,19-Feb-18,28-Feb-18
-Ahmedabad (AMD),Mumbai (BOM),403,14:00,15:20,,Except Sun,19-Feb-18,28-Feb-18
-Ahmedabad (AMD),Mumbai (BOM),313,18:40,20:05,,Daily,19-Feb-18,28-Feb-18
-Ahmedabad (AMD),Mumbai (BOM),313,19:55,20:55,,Daily,01-Mar-18,24-Mar-18
-Ahmedabad (AMD),Kolkata (CCU),125,06:40,09:10,,Daily,19-Feb-18,24-Mar-18
-Ahmedabad (AMD),Kolkata (CCU),135,16:10,18:40,,Every Sat,24-Feb-18,24-Feb-18
-Ahmedabad (AMD),Kolkata (CCU),135,16:15,18:45,,Except Sat,19-Feb-18,28-Feb-18
-Ahmedabad (AMD),Kolkata (CCU),363,22:55,01:30,,Daily,19-Feb-18,24-Mar-18
-Ahmedabad (AMD),Delhi (DEL),6683,04:50,06:20,,Daily,01-Mar-18,24-Mar-18
-Ahmedabad (AMD),Delhi (DEL),6683,05:05,06:45,,Daily,19-Feb-18,28-Feb-18
-Ahmedabad (AMD),Delhi (DEL),158,06:10,07:50,,Daily,19-Feb-18,24-Mar-18

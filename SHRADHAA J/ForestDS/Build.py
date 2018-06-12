@@ -1,5 +1,5 @@
 #!/usr/bin/python
-import json
+import json, codecs
 import datetime
 from datetime import datetime, date
 import Forest as F
@@ -58,10 +58,16 @@ def myconverter(o):
 		
 print F.forest
 
-with open('data.json', 'w') as outfile:
-	sent = json.dumps(F.forest, outfile, default = myconverter)
+#with open('data.json', 'w') as outfile:
+#	sent = json.dumps(F.forest, outfile, default = myconverter)
+	
+#with io.open('data.json', 'w', encoding='utf-8') as f:
+#	f.write(json.dumps(data, ensure_ascii=False, default = myconverter))
 
-#firebase = firebase.FirebaseApplication('https://plog-f697c.firebaseio.com/')
-#result = firebase.post("/AirlineDetails", sent)
+with open('forest.json', 'w') as filehandle:  
+    json.dump(F.forest, filehandle)
+
+#firebase = firebase.FirebaseApplication('https://airlinedelaypredictor.firebaseio.com/')
+#result = firebase.post("/ForestDS", json.dumps(F.forest, default = myconverter))
 	
 #return;

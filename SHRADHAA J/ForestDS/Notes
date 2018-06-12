@@ -1,6 +1,6 @@
 Note:
 
-Trees are JSONArrays
-Nodes ar JSONObjects
-The forest is written to a json file
-Propagated delay will be calculated when adding each node from scraped data (yet to be added on git)
+Trees are JSONArrays: lists in python
+Nodes ar JSONObjects: dictionaries in python
+The forest is written to a json file: using json dump
+Propagated delay will be calculated when adding each node from scraped data: implemented with constraints

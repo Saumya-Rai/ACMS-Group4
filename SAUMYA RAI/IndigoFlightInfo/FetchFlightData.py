@@ -28,7 +28,7 @@ currentTime = math.floor(time.time())
 prevTime = loadedData["current_time"]
 print(flightList[0])
 #If gap is greater than 2 hours, we start from the beginning (all flights)
-if currentTime - prevTime < 43200:
+if currentTime - prevTime < 86400:
     # Start from where we left off
     newFlightList = flightList[flightList.index(loadedData["flight_number"]):]
 else:

@@ -32,13 +32,13 @@ for flight in flightList:
     flight_df = data.loc[data['flight number'] == flight]
     #print(flight_df['flight number'], flight_df['delay'])
     avr = np.mean(flight_df['delay'].tolist())
-    #print(avr)
+    callsign = flight_df['callsign'][0]
     #average in minutes to be stored
     if "+" in str(flight):
         modified="6E" + str(flight).split("+")[1]
-        flightAverageDelay.loc[len(flightAverageDelay)] = [modified, avr/60] 
+        flightAverageDelay.loc[len(flightAverageDelay)] = [callsign, avr/60] 
     else:
-        flightAverageDelay.loc[len(flightAverageDelay)] = [str(flight), avr/60] 
+        flightAverageDelay.loc[len(flightAverageDelay)] = [callsign, avr/60] 
 print(flightAverageDelay)
 
 flightAverageDelay.to_csv('Data/Flight Average Delay.csv',  sep=',', index=False)
